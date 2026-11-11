@@ -1,0 +1,1001 @@
+NO;id_registrasi_mahasiswa;dosen_id;skor_risiko_statistik;ips_terakhir;persentase_absensi;tingkat_risiko;catatan_evaluasi;periode_akademik;created_at;updated_at
+1;2e7d5d92-6727-43a2-8eb7-e5cf00c40d7f;40;14.6;3.38;86.3;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;02/11/2026 16:57;02/11/2026 16:57
+2;1053a14a-1d47-499b-9da0-9942572d5105;85;17.45;3.26;83.6;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;02/11/2026 09:00;02/11/2026 09:00
+3;315691cd-94bf-49af-a602-59281e58e5ab;1005;19.12;3.25;80.5;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;03/11/2026 09:52;03/11/2026 09:52
+4;27291ced-9862-4a6d-a022-5890ec241a65;40;5.65;4;88.7;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;25/10/2026 07:12;25/10/2026 07:12
+5;bca45514-42c1-43b9-9f46-83ba37cc938d;40;21.12;3.29;75.5;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;03/11/2026 08:39;03/11/2026 08:39
+6;708ef6cd-47f2-4c08-a127-78a65bdb5690;1008;8.8;3.4;97.4;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;02/10/2026 19:12;02/10/2026 19:12
+7;248c91b7-3602-49f8-b2f9-428fa31eb9f8;73;20.4;3.6;69.2;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20252;02/11/2026 13:22;02/11/2026 13:22
+8;a70187ec-9370-4fbf-acbf-7d638246a3de;40;4;3.68;100;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;08/10/2026 16:29;08/10/2026 16:29
+9;f14a175a-77ef-4fb6-ae60-841d2607e2f2;40;20.83;3.13;80.1;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20252;02/11/2026 14:29;02/11/2026 14:29
+10;f2adb96c-304c-4875-8676-40c36b7e8906;40;8;3.98;84.5;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;01/11/2026 19:01;01/11/2026 19:01
+11;1e915a05-d0b3-4246-bf77-05ac51b861ed;73;12.45;3.16;96.1;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;10/10/2026 20:37;10/10/2026 20:37
+12;e201f9e5-afad-47b0-bab2-6674917aa4a7;28;41.28;2.21;62.2;Perhatian Khusus;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;03/10/2026 11:36;03/10/2026 11:36
+13;70064b1f-1285-478f-b966-d5f78b82978a;1008;7.83;3.63;93.6;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;25/10/2026 08:00;25/10/2026 08:00
+14;e8cf48b8-9f76-47b7-b61e-2c0b0933ef4d;1008;8;3.6;94;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;12/10/2026 07:41;12/10/2026 07:41
+15;42acae90-ce29-4f7d-82ac-f150077e9a0e;73;9.88;3.57;91;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;02/11/2026 21:56;02/11/2026 21:56
+16;e805257c-ed03-416e-8a45-5a9ff8530269;28;7.5;3.54;96.5;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;28/10/2026 15:33;28/10/2026 15:33
+17;7f375d37-4523-4bfb-b34b-50b832dbf785;40;20.7;2.96;84.6;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;06/10/2026 10:45;06/10/2026 10:45
+18;33d63989-895a-4fd3-b52d-8b041b3a1bf1;1005;20.52;2.89;86.7;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;04/11/2026 13:16;04/11/2026 13:16
+19;b0f94ed1-9a13-4439-9eab-59620740f886;40;30.02;3.01;64.7;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;22/10/2026 15:31;22/10/2026 15:31
+20;7af23558-5170-40b1-b815-44671d74ea62;1008;20.52;3.01;83.7;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;12/10/2026 07:16;12/10/2026 07:16
+21;3eb65909-9cb7-4cef-8be4-55d6c922ffba;1008;10.45;3.56;90.1;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;20/10/2026 18:54;20/10/2026 18:54
+22;6326a947-0719-484f-a0bf-faf5e02113e7;85;9.02;3.55;93.2;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;03/11/2026 11:26;03/11/2026 11:26
+23;cd94e672-d1ec-4e8e-8be0-76bba43fe06c;1005;13.67;3.35;88.9;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;02/11/2026 17:21;02/11/2026 17:21
+24;ea06558a-8c8f-4fcb-9074-04c7d967df35;1005;14.17;3.41;86.4;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;01/11/2026 09:27;01/11/2026 09:27
+25;8b9c3ce9-5190-48e6-a5f8-3f1997ecea7e;40;19.35;2.76;92.3;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;01/11/2026 09:05;01/11/2026 09:05
+26;604b5e34-3d91-4a30-a2f4-574b372da0ad;73;12.48;3.55;86.3;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;16/10/2026 19:13;16/10/2026 19:13
+27;6d58d1a2-4517-4951-b936-8905ff9db002;1008;32.33;3.25;54.1;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;01/11/2026 20:33;01/11/2026 20:33
+28;424b9c43-c4df-49bc-806e-2b094d25fed3;73;5.85;3.62;97.8;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;26/10/2026 12:44;26/10/2026 12:44
+29;b6ba4e59-28b6-4c8f-9a8b-ac775396f694;40;21.42;2.87;85.4;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20261;13/10/2026 21:45;13/10/2026 21:45
+30;f69dd50e-566d-4148-81c4-2e7d0d49c8ad;73;18.58;2.61;97.6;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;02/11/2026 18:50;02/11/2026 18:50
+31;3af14709-0d9e-4aff-86e5-094f801869c0;1008;31.17;2.69;70.4;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20261;06/10/2026 17:29;06/10/2026 17:29
+32;a5137e67-c436-4934-9bc3-8d140235edde;1008;15.98;3.73;74.8;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20252;04/11/2026 19:09;04/11/2026 19:09
+33;f3ccd77f-96c8-4224-8e57-f11b7f904b3e;73;44.82;2.43;49.6;Perhatian Khusus;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;10/10/2026 15:11;10/10/2026 15:11
+34;ba28f5e6-69f1-4a73-9348-f434c0e24000;74;12.98;3.31;91.3;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;01/11/2026 16:56;01/11/2026 16:56
+35;94670e32-a8f4-4872-ba36-19dc3e55ff64;73;29.13;3.01;66.5;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;03/11/2026 07:42;03/11/2026 07:42
+36;1011a869-1d49-444d-a44a-bf347fc4a4db;1008;22.15;2.64;89.7;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;21/10/2026 09:00;21/10/2026 09:00
+37;c11cb699-e1c9-4258-845b-d120588829d8;1008;12.6;3.46;88.3;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;01/10/2026 16:29;01/10/2026 16:29
+38;7ff66428-e158-44e2-bb03-21395037abd0;1008;14.52;3.17;91.7;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;13/10/2026 19:20;13/10/2026 19:20
+39;1ae40138-a1ff-446e-9eaf-777d0de00fc1;40;7.83;3.63;93.6;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;02/11/2026 12:51;02/11/2026 12:51
+40;17369262-d789-4e33-873b-74d1499b94d9;1008;24;2.44;91;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20261;23/10/2026 15:21;23/10/2026 15:21
+41;963155e9-c34e-485d-9fee-23c2ce0744b6;40;25.52;2.87;77.2;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20261;30/10/2026 07:56;30/10/2026 07:56
+42;a1288c01-9015-4f4e-82ce-902d03c1470a;73;15.08;3.23;89.1;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;02/11/2026 10:15;02/11/2026 10:15
+43;1638a8ae-3e95-451d-bc9a-87929796f663;73;4.9;3.7;97.7;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;02/11/2026 18:52;02/11/2026 18:52
+44;c922d524-4555-4bb5-9489-8ec826975820;1005;15.55;3.34;85.4;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;02/11/2026 11:38;02/11/2026 11:38
+45;159311d3-1794-405c-aca8-e97361962f4a;40;13.77;2.93;99.2;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;01/11/2026 20:57;01/11/2026 20:57
+46;9d2e03e9-76a6-47e3-bd6d-958fd7fde590;73;34.45;2.74;62.6;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;01/11/2026 09:23;01/11/2026 09:23
+47;8992ce68-6f05-407e-8c98-97017dc3c1d2;1005;18.5;3.34;79.5;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;01/11/2026 08:00;01/11/2026 08:00
+48;f40133a2-d6d9-44d0-bffe-5548b3c97fb8;73;19.25;3.02;86;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;26/10/2026 14:38;26/10/2026 14:38
+49;add05a2e-6dc6-4126-93f6-d92885e1c4ac;73;11.67;3.39;91.9;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;27/10/2026 13:38;27/10/2026 13:38
+50;3838f116-6100-4336-a037-7c9c7204ffd9;74;16.62;3.37;82.5;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;01/11/2026 18:47;01/11/2026 18:47
+51;a3b90a81-5d7a-4d2f-8191-4de3a5e1c92c;40;2.7;3.82;99.1;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;30/10/2026 13:49;30/10/2026 13:49
+52;05043986-f0e3-45e9-bee7-528607e15f94;1008;12;3.48;89;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;18/10/2026 13:22;18/10/2026 13:22
+53;1cdef529-d3c7-4ce4-a783-637458542999;1008;7.5;3.4;100;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;01/11/2026 10:42;01/11/2026 10:42
+54;24c8d7b7-be73-4847-876e-a106b4c3eabd;1005;26.02;2.83;77.2;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;02/11/2026 15:00;02/11/2026 15:00
+55;e7940470-fe3f-43f8-9678-f7a6ca49c34d;40;16.2;2.76;98.6;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;04/11/2026 18:27;04/11/2026 18:27
+56;58c5f348-7199-4354-9d50-680ea26a44e0;1005;8.88;3.51;94.5;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;12/10/2026 10:07;12/10/2026 10:07
+57;48197552-09c8-4f38-a585-7773ffbe38a7;85;11.9;3.34;92.7;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;12/10/2026 21:36;12/10/2026 21:36
+58;8be82035-a8c3-46d1-b808-2071614ef923;40;26.48;3.11;69.3;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20261;05/10/2026 16:04;05/10/2026 16:04
+59;9bcf1fbf-c0da-47ab-b8c5-f86bc5db23ab;73;38.02;2.25;67.7;Perhatian Khusus;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20261;08/10/2026 07:38;08/10/2026 07:38
+60;b9f5247f-0fc7-48dc-acc9-daf59fdd78f1;28;49.75;1.78;56;Perhatian Khusus;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;14/10/2026 13:15;14/10/2026 13:15
+61;41bc7fec-987e-49a3-945e-95e52dcd7a4d;1005;29.75;3.16;61.5;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;24/10/2026 15:27;24/10/2026 15:27
+62;12691e89-a757-4980-a4ed-111efc2e3d3b;1008;19;3.12;84;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;04/11/2026 21:19;04/11/2026 21:19
+63;25b7e077-9d9f-4353-a8f0-95161fba14e1;1008;32.67;2.73;66.4;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20252;03/11/2026 17:14;03/11/2026 17:14
+64;f3bdd1b9-cba7-45e8-8457-0c757af0d97f;1008;12.7;3.36;90.6;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;04/11/2026 13:25;04/11/2026 13:25
+65;18cd74bc-aba4-48dc-ad5e-a021556995f3;1005;18.62;3.23;82;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;13/10/2026 15:40;13/10/2026 15:40
+66;f7fc94c4-2fa0-4482-af27-c85a392191d6;73;8.1;3.54;95.3;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;13/10/2026 20:33;13/10/2026 20:33
+67;79dfbe22-73d4-4f74-81bb-e18df2e1198d;1005;5.83;3.69;96.1;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;04/11/2026 17:42;04/11/2026 17:42
+68;732acb26-3dc3-46c7-9c0a-f75c8664a1ac;73;17.75;3.26;83;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;02/11/2026 08:24;02/11/2026 08:24
+69;29af59bd-7714-481c-9c7f-bb998f18a11e;1008;41.62;2.37;57.5;Perhatian Khusus;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;14/10/2026 08:18;14/10/2026 08:18
+70;3f19dd29-51f1-4f18-bb0b-c92501d82668;73;11.83;3.57;87.1;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;15/10/2026 16:29;15/10/2026 16:29
+71;22a6f1a8-6b68-4d23-8245-055765fa2340;1005;20.65;2.68;91.7;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;01/11/2026 17:34;01/11/2026 17:34
+72;04d41168-1a43-457e-9c47-14067724be5f;1008;12.12;3.29;93.5;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;09/10/2026 11:12;09/10/2026 11:12
+73;91245d28-dcb2-4d00-afa5-8ab4a309d540;1008;36.83;2.75;57.6;Perhatian Khusus;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20261;16/10/2026 12:16;16/10/2026 12:16
+74;07a79c66-7b33-41d7-812f-343d528f9855;73;34.62;2.47;69;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;02/11/2026 11:46;02/11/2026 11:46
+75;70fb92eb-3118-4908-a334-1e31499dc373;1008;9.02;3.67;90.2;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;04/11/2026 14:22;04/11/2026 14:22
+76;18a46609-04c8-4aa1-861b-0d081457cced;1008;11.45;3.42;91.6;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;02/11/2026 11:11;02/11/2026 11:11
+77;a6325e5c-f2cc-40fd-933e-fbe6669de1d3;73;13.27;3.31;90.7;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;21/10/2026 17:45;21/10/2026 17:45
+78;426e1878-28e7-41cd-bc3a-d654251939c1;1008;18.85;3.2;82.3;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20261;12/10/2026 12:36;12/10/2026 12:36
+79;371f88b4-99ec-42b7-954b-3d1fc9731505;1005;12.92;3.63;83.4;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;02/11/2026 14:30;02/11/2026 14:30
+80;d81c53f8-d3d0-4fc5-aa42-d2b80a3f5509;1008;30.15;2.92;66.7;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;03/11/2026 15:29;03/11/2026 15:29
+81;cff7fd4c-90e5-4201-9e1e-5144dfb45c33;73;9.58;3.65;89.6;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;19/10/2026 10:36;19/10/2026 10:36
+82;e924abb1-0a2b-44ef-8a7b-1aa769223909;40;8.88;3.73;89;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;02/11/2026 21:20;02/11/2026 21:20
+83;62453d4c-923e-4ded-a4ec-f1347933c141;1008;14.3;3.44;85.4;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;05/10/2026 15:00;05/10/2026 15:00
+84;4212fb1d-c03f-4f7d-80bf-ad808d6068e8;73;27.55;3.52;56.9;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20252;03/11/2026 12:25;03/11/2026 12:25
+85;f17aaa8d-301a-4bda-a364-3226c4940b0e;40;7.87;3.83;88.5;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;01/11/2026 19:03;01/11/2026 19:03
+86;dee788de-0b1a-41bf-aaa1-815854d560a5;40;7.05;4;85.9;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;30/10/2026 15:32;30/10/2026 15:32
+87;6d9bc56b-fd98-47c0-852d-d17169493793;1008;8.15;3.76;89.7;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;03/11/2026 07:09;03/11/2026 07:09
+88;579978a0-9ee7-46f8-ac99-0fc0cc4711f5;40;12.23;3.29;93.3;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;10/10/2026 21:39;10/10/2026 21:39
+89;9e4ced37-5a83-4b41-831b-ae65c830172e;1008;12.4;3.2;95.2;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;02/11/2026 16:23;02/11/2026 16:23
+90;7229ffdd-70eb-4a63-b10b-ffb9fc1c34aa;73;8.58;3.51;95.1;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;28/10/2026 10:24;28/10/2026 10:24
+91;78cbd75d-e864-429f-8fde-32351a5b7c2e;73;35.38;3.05;53;Perhatian Khusus;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;02/11/2026 17:50;02/11/2026 17:50
+92;43e0cfa5-9565-4d62-88fb-f213ed881d93;1005;5.55;4;88.9;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;04/11/2026 12:07;04/11/2026 12:07
+93;8769db41-036c-4f27-acea-611313dbf8a2;1008;17.85;3.38;79.8;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;03/11/2026 07:41;03/11/2026 07:41
+94;d27d7f5f-c6d2-4d80-af15-b0e0b32332ba;1005;20.08;2.71;92.1;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20261;20/10/2026 10:37;20/10/2026 10:37
+95;e354d411-fb28-47a2-8228-1eb7b5643242;74;15.35;3.4;84.3;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;04/11/2026 13:34;04/11/2026 13:34
+96;c9b41dea-6e9e-41fb-a717-619346e02655;40;34.2;1.84;85.6;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;02/11/2026 16:16;02/11/2026 16:16
+97;b511ce25-607f-46fe-a312-9ecd9378f392;1008;14.67;3.29;88.4;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;04/10/2026 09:42;04/10/2026 09:42
+98;1feb6f76-4ec6-4110-a775-21f1d0454fcd;1008;27.2;2.72;77.6;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;01/11/2026 18:03;01/11/2026 18:03
+99;21e3e969-dc5d-4ad3-9825-062087cf1d02;73;7.15;4;85.7;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;04/11/2026 20:59;04/11/2026 20:59
+100;2522295b-9c2c-4c19-ab39-ab09b48dd043;74;38.32;2.91;50.6;Perhatian Khusus;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20261;20/10/2026 10:44;20/10/2026 10:44
+101;0d945b3d-2bd9-43e4-b573-b5eace3465c7;73;6.6;3.58;97.3;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;25/10/2026 08:05;25/10/2026 08:05
+102;c9249c7c-5e66-4f2a-bf57-1a0bee07a4cf;1005;11.12;3.75;84;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;02/11/2026 08:21;02/11/2026 08:21
+103;16c4096d-ef67-498b-967e-7365d1d72136;73;39.38;2.91;48.5;Perhatian Khusus;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20261;11/10/2026 20:11;11/10/2026 20:11
+104;4eefc053-25b3-4921-8a7b-5abb122c77d3;1005;22.25;2.68;88.5;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20261;11/10/2026 20:46;11/10/2026 20:46
+105;5ada578f-5f36-44a4-be6e-66939a126389;1008;2.25;3.96;96.5;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;03/11/2026 14:53;03/11/2026 14:53
+106;febe56a4-155d-41f8-b0ef-a397f115df70;40;14.3;3.22;90.9;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;01/11/2026 08:36;01/11/2026 08:36
+107;63fba39e-003b-4929-b849-508a317525f5;85;7.8;3.8;89.4;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;03/11/2026 15:22;03/11/2026 15:22
+108;77e70749-f0ab-47fa-98f2-6182c1f40da9;1008;8.45;3.84;87.1;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;05/10/2026 21:39;05/10/2026 21:39
+109;3b6b51f5-fb34-4a12-8373-799b7a30af91;1005;9.98;3.73;86.8;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;03/11/2026 10:37;03/11/2026 10:37
+110;7053d153-66d0-4dbb-8942-1750cce70678;73;11.65;3.34;93.2;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;02/11/2026 14:27;02/11/2026 14:27
+111;740f855e-23dc-43a0-b33f-dc3dbd27c884;1005;8.02;3.49;96.7;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;04/10/2026 20:19;04/10/2026 20:19
+112;29e898ba-4b8b-464b-8297-46b9f075f565;40;7.98;3.73;90.8;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;14/10/2026 18:43;14/10/2026 18:43
+113;f432b82d-da26-4f9d-9265-d91b59493af9;40;30.67;2.67;71.9;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20261;22/10/2026 09:46;22/10/2026 09:46
+114;1169a248-32c0-4409-8a45-b3539fa83800;73;12.48;3.95;76.3;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;01/11/2026 15:04;01/11/2026 15:04
+115;78985234-c850-4ef7-8931-07d39908a4c8;28;13.3;3.32;90.4;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;01/11/2026 07:33;01/11/2026 07:33
+116;30ea4ab7-224e-4821-a55b-43a5068a9317;40;24.75;2.64;84.5;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;04/11/2026 20:15;04/11/2026 20:15
+117;e33ac4ec-d560-4787-a505-c6978fdc803d;40;12.47;3.47;88.3;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20261;20/10/2026 13:15;20/10/2026 13:15
+118;f0330fa4-458e-4cd8-a22e-0487811a839c;74;9.75;3.36;96.5;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;01/11/2026 19:45;01/11/2026 19:45
+119;4101b8a8-a3bf-4260-8208-3134f3431662;28;38.33;1.53;85.1;Perhatian Khusus;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20252;02/11/2026 20:39;02/11/2026 20:39
+120;2daae90a-930d-47f8-b893-6382ae794a22;1008;13.85;3.48;85.3;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;20/10/2026 19:24;20/10/2026 19:24
+121;4847243c-6c1f-4111-9a6b-4880d6cd83d0;73;33.67;2.49;70.4;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;04/11/2026 15:53;04/11/2026 15:53
+122;b279fcdd-503f-4dc6-96bc-6be2b21f1ebe;73;11.1;3.66;86.3;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;03/11/2026 08:59;03/11/2026 08:59
+123;61239c38-dde4-4536-b05c-3bff3aa40e0f;73;4.88;3.79;95.5;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;16/10/2026 07:34;16/10/2026 07:34
+124;a660a598-ab80-44ca-8fdc-6f0797e2ae8d;1008;4.62;3.93;92.5;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;21/10/2026 15:47;21/10/2026 15:47
+125;4095203c-5363-4df5-b31c-7b403a7ffd22;73;8.92;3.43;96.4;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;02/11/2026 11:27;02/11/2026 11:27
+126;22a588d6-cd66-4178-83f3-72de831385b8;40;10.25;3.28;97.5;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;04/11/2026 14:37;04/11/2026 14:37
+127;b29d48b7-5e14-4d5d-84a7-98d56cf764a4;1008;10.35;3.64;88.3;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;06/10/2026 13:38;06/10/2026 13:38
+128;f70ef337-b6bf-4e3b-8b55-f712c0acfb9d;84;27.67;2.61;79.4;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;26/10/2026 16:54;26/10/2026 16:54
+129;cccc4aba-0bd0-4667-babb-136d4e1289c3;40;4.95;3.76;96.1;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;09/10/2026 21:56;09/10/2026 21:56
+130;34dca860-33e5-4e2a-bffc-4e6780fa511f;1008;20.4;3.08;82.2;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;07/10/2026 11:23;07/10/2026 11:23
+131;d8d265b9-0557-4679-9ce2-d0a1467e0aa9;1008;4.8;3.78;95.9;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;12/10/2026 09:09;12/10/2026 09:09
+132;1f691f0f-83ab-4eb9-ad6a-b6014130c645;73;21.45;2.92;84.1;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;16/10/2026 20:33;16/10/2026 20:33
+133;60c3b3b5-abd6-4eb0-8056-8b8bf2a6dbb5;1005;15.3;3.44;83.4;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;17/10/2026 13:16;17/10/2026 13:16
+134;a2a30355-a2cb-4f84-ac8c-ba1aa462534c;40;10.5;3.46;92.5;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;02/11/2026 15:59;02/11/2026 15:59
+135;3115ee91-052f-4c22-bf8a-90e2d57862b4;1005;9.52;3.89;83.7;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;04/11/2026 18:02;04/11/2026 18:02
+136;a77f6083-08f2-47da-b199-594900314ed1;1005;14.42;3.47;84.4;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;02/11/2026 15:01;02/11/2026 15:01
+137;57d16af3-3c0e-4f77-9552-392df5a3f772;73;18.15;2.6;98.7;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20252;03/11/2026 15:53;03/11/2026 15:53
+138;38ae495f-be58-42d4-8c4b-595b0f53c81c;1005;10.72;3.43;92.8;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;16/10/2026 16:01;16/10/2026 16:01
+139;41868013-559e-44b9-aebf-b95fac1c5341;74;14.25;3.22;91;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;01/11/2026 20:55;01/11/2026 20:55
+140;af183eae-78ae-44bc-a727-f2f9a6a02e88;1008;11;3.12;100;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;02/11/2026 07:14;02/11/2026 07:14
+141;0f2b23cf-4fe6-4beb-9ef8-5f4b913a99b9;73;7.1;3.84;89.8;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;07/10/2026 16:19;07/10/2026 16:19
+142;5553501c-b1f7-40fd-a7b7-098ba3e56620;1008;26.45;3.2;67.1;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20261;09/10/2026 19:33;09/10/2026 19:33
+143;e10bac3f-b2e5-4df6-a716-13e8249af301;1008;18.62;3.21;82.5;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;24/10/2026 20:40;24/10/2026 20:40
+144;91c59c7f-92f5-4b33-9172-a903ba1a9f37;1005;2.77;3.87;97.7;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;27/10/2026 11:09;27/10/2026 11:09
+145;1ac75fe0-8000-40d0-92fa-eb88fc34be36;28;10.98;3.75;84.3;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;06/10/2026 19:17;06/10/2026 19:17
+146;0972b775-ece8-4d7c-aaeb-26e2161b5ef4;40;16.83;3.17;87.1;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;04/11/2026 21:03;04/11/2026 21:03
+147;95995167-449c-483f-a4ac-602cf798fcb8;1008;34.17;2.83;60.9;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;04/11/2026 07:26;04/11/2026 07:26
+148;23a99491-321f-4424-bff4-acb8356abcec;40;28.75;2.86;71;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20261;23/10/2026 09:20;23/10/2026 09:20
+149;a939bb11-e02b-46f9-af49-d7b5bc8ab04a;73;36.58;1.71;84.1;Perhatian Khusus;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;02/11/2026 15:27;02/11/2026 15:27
+150;0ae97767-7730-41e0-9255-cbfb852f84e2;28;3;3.9;96.5;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;15/10/2026 21:55;15/10/2026 21:55
+151;b45efce2-7b1e-461b-9a1d-fcfcf0c91d31;1008;8.62;3.31;100;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;25/10/2026 07:29;25/10/2026 07:29
+152;76b577c0-0a2c-4646-aacd-f778e230b1e5;73;21.7;2.68;89.6;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20261;24/10/2026 07:29;24/10/2026 07:29
+153;346f16e9-6050-4f20-bf23-05b00e6b1ec7;84;32.55;2.4;74.9;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;03/11/2026 19:58;03/11/2026 19:58
+154;b8f69bd5-3ce6-43e8-876e-16b0fac80e15;73;20.9;2.94;84.7;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;04/11/2026 17:26;04/11/2026 17:26
+155;129db7e8-55a5-426b-8a87-260ccaa452c2;1005;3.7;4;92.6;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;02/11/2026 10:40;02/11/2026 10:40
+156;cc565ac9-f891-448c-bd9b-c2eebf039c51;1005;10.48;3.59;89.3;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;08/10/2026 14:52;08/10/2026 14:52
+157;920c7b33-fc2b-46f5-899f-dd532a61014d;40;37.15;2.36;66.7;Perhatian Khusus;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;01/11/2026 08:18;01/11/2026 08:18
+158;6a843e9e-5d0e-4cb7-b75d-d6fb7d0818d6;1005;18.38;3.15;84.5;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;20/10/2026 19:58;20/10/2026 19:58
+159;4fd7880a-109c-4561-8974-0e6be30f0093;73;4.55;4;90.9;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;04/11/2026 18:36;04/11/2026 18:36
+160;9d3b622b-59dd-4d54-9858-5eaf18e9f5e3;40;43.4;2.38;53.7;Perhatian Khusus;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20252;02/11/2026 19:20;02/11/2026 19:20
+161;3f4a5e1a-92b5-4e48-840c-882f8da1f763;85;8.3;3.86;86.9;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;06/10/2026 18:15;06/10/2026 18:15
+162;bba23f8d-f2bc-452d-b649-b1428d61b17b;40;9.35;3.34;97.8;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;04/11/2026 09:10;04/11/2026 09:10
+163;093b1272-94de-4c3a-83c4-2e6540ff2b7e;40;43.9;2.72;44.2;Perhatian Khusus;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;21/10/2026 17:04;21/10/2026 17:04
+164;96cb68ee-0f7a-48dd-9182-8caffb095d5b;1005;17.85;3.16;85.3;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;06/10/2026 16:47;06/10/2026 16:47
+165;bab51259-dfb5-4464-86d4-0fc1fe4ec978;73;15.7;3.32;85.6;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;01/10/2026 11:55;01/10/2026 11:55
+166;cbd7573b-4510-4fc0-8090-b15b3c953e81;1005;27.2;2.32;87.6;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20261;19/10/2026 12:48;19/10/2026 12:48
+167;85187dc3-23c3-4fc2-ac6b-6258710786e5;1008;5.45;3.6;99.1;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;27/10/2026 10:27;27/10/2026 10:27
+168;c52b35c0-19e6-4428-b073-d0ce95437f6c;28;7.88;3.57;95;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;18/10/2026 08:23;18/10/2026 08:23
+169;22b06b32-917d-49f6-b6f3-3bfeca9b1512;1008;8.2;3.46;97.1;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;02/11/2026 16:50;02/11/2026 16:50
+170;b28a5234-3d89-4a61-a4d5-4ad1c461c5c3;1008;17.45;3.36;81.1;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;03/11/2026 10:22;03/11/2026 10:22
+171;5b0272a6-030d-4055-adcd-7af2e748bc8f;1008;8.25;3.34;100;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;18/10/2026 10:45;18/10/2026 10:45
+172;7b22b670-cbe9-41ba-961c-1a8bf6364e91;40;8.27;3.83;87.7;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;02/11/2026 15:33;02/11/2026 15:33
+173;68cdb5bb-6d5b-4718-a86f-194cd3ee2876;1005;10.05;3.66;88.4;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;01/11/2026 19:36;01/11/2026 19:36
+174;ca8ad896-bd6d-47d4-b540-ae3e57ca34cf;1005;9.17;3.31;98.9;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;29/10/2026 10:00;29/10/2026 10:00
+175;ae9d3f5a-d230-435a-a4fb-b219817893dd;74;16.05;3.18;88.4;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;26/10/2026 15:38;26/10/2026 15:38
+176;27c7d8f3-3c02-4954-ab08-f93f31bad673;73;11.92;3.51;88.4;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;02/11/2026 21:09;02/11/2026 21:09
+177;8304d2a5-cc06-4f03-b2f8-f8129fac70cc;74;23.1;3;78.8;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;04/11/2026 07:55;04/11/2026 07:55
+178;abf77082-eca0-48af-b443-8551612d5248;1008;12.92;3.35;90.4;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;22/10/2026 11:06;22/10/2026 11:06
+179;5d0cf90b-772b-4777-ae53-1e770f2ed821;73;4.25;3.68;99.5;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;01/11/2026 11:45;01/11/2026 11:45
+180;88fb7110-70f6-4b56-9677-e4fdb13a3a5e;84;15.38;2.77;100;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;03/11/2026 16:14;03/11/2026 16:14
+181;0c6641f1-4276-4393-a2eb-9f5c5103ccec;73;5.38;3.57;100;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;04/11/2026 12:26;04/11/2026 12:26
+182;94003a26-791a-4df4-9b45-9473c36ccc68;1005;11.1;3.26;96.3;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;03/11/2026 17:31;03/11/2026 17:31
+183;571bbd32-da4e-422b-a133-749ccd53e886;73;10.45;3.54;90.6;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;02/11/2026 13:21;02/11/2026 13:21
+184;84013603-63e9-49f7-b3fc-32c12d123e46;73;17.83;2.97;90.1;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;26/10/2026 15:35;26/10/2026 15:35
+185;27640417-1dd1-4446-b23f-ebcad66ea101;73;9.05;3.66;90.4;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;18/10/2026 07:30;18/10/2026 07:30
+186;3509ec6e-93fe-4392-956a-da23b151aa0c;1008;11.7;3.74;83.1;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;04/11/2026 09:53;04/11/2026 09:53
+187;832e268c-b0eb-418d-8527-132fc591be20;1008;17.8;2.78;94.9;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;02/11/2026 08:51;02/11/2026 08:51
+188;9950db50-b67c-4038-830a-39d9c23d9146;1008;14.58;3.23;90.1;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;02/11/2026 13:09;02/11/2026 13:09
+189;d9e1d7a1-78f0-45fa-b99e-310a25878a44;1008;16.6;2.68;99.8;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;21/10/2026 16:33;21/10/2026 16:33
+190;fd939695-a628-4942-b2e7-9644462baa08;1005;12.8;3.42;88.9;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;01/11/2026 07:04;01/11/2026 07:04
+191;b519062e-0e81-4052-a235-f2bd5e3c2132;73;15.42;3.37;84.9;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;01/11/2026 19:23;01/11/2026 19:23
+192;f361ce6d-7d35-4594-bf7d-3c45dfecc013;73;9.2;3.44;95.6;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;01/11/2026 20:16;01/11/2026 20:16
+193;f7e8f495-c7db-49e1-a9e0-ed10783a5025;1008;29.22;2.41;81.3;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;24/10/2026 15:17;24/10/2026 15:17
+194;3a712cb1-7da4-4a88-af92-6193ced1b7b0;1008;23.55;3.18;73.4;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;03/11/2026 12:50;03/11/2026 12:50
+195;911183a1-8a64-44d3-aed6-6e6f1eab718c;81;17.3;3.02;89.9;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;27/10/2026 21:06;27/10/2026 21:06
+196;1673c623-ae29-485e-93e3-500525d4bbee;73;17.88;3.25;83;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20261;22/10/2026 12:51;22/10/2026 12:51
+197;c6fa5bbf-1a21-4766-93e9-95ba7eade73e;1008;8;3.36;100;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;02/11/2026 16:12;02/11/2026 16:12
+198;6556659a-0fa4-438a-8641-0a10770c77fe;1005;29.9;2.38;80.7;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;18/10/2026 15:07;18/10/2026 15:07
+199;36847d92-88c8-448f-9148-a687a77faa19;1008;22.35;2.7;87.8;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20261;02/10/2026 11:18;02/10/2026 11:18
+200;2c2a96a8-ebc2-4329-8864-3212ab3e60fe;73;5.8;4;88.4;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;02/10/2026 14:48;02/10/2026 14:48
+201;ac4a0871-fa24-4da0-93e4-4ddd3cfb5090;73;6.27;3.79;92.7;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;04/11/2026 11:36;04/11/2026 11:36
+202;2231b724-3f4b-48ba-bf72-d10c315633e7;1008;16.02;3.21;87.7;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;11/10/2026 18:59;11/10/2026 18:59
+203;46e3cf33-50d4-4f4c-b967-d4d9e4b0a0d1;1005;12.3;3.46;88.9;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;02/11/2026 17:15;02/11/2026 17:15
+204;280bca54-8173-4225-894e-8ff48fc44377;1008;10.58;3.43;93.1;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;30/10/2026 10:21;30/10/2026 10:21
+205;857a754c-ccef-48af-8620-60403ac964c8;1008;10.62;3.69;86.5;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;20/10/2026 13:05;20/10/2026 13:05
+206;f4855e40-9406-451f-8fd0-0b5373d129d5;1005;14.75;3.16;91.5;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;25/10/2026 10:00;25/10/2026 10:00
+207;d790fd2b-678e-4ac4-8c2d-de67be051208;1005;10.65;3.38;94.2;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;03/11/2026 09:17;03/11/2026 09:17
+208;dbb0409d-40e7-4f12-b319-c1282fcc3874;1008;3.83;3.93;94.1;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;17/10/2026 19:46;17/10/2026 19:46
+209;873ebcf5-3623-4141-8b8b-ac2f42db582c;73;11.5;3.38;92.5;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;30/10/2026 21:59;30/10/2026 21:59
+210;3eec1a04-a12b-4730-824e-c439d7a8b44c;1008;14.92;3.15;91.4;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;03/10/2026 07:07;03/10/2026 07:07
+211;77e2598a-91e3-4716-8240-da5138b24bfa;1008;25.42;2.41;88.9;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;09/10/2026 13:54;09/10/2026 13:54
+212;ec19db12-8511-4ddc-bf87-cf5812f15a60;1008;7.1;3.58;96.3;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;02/11/2026 19:04;02/11/2026 19:04
+213;04c7fe44-e538-4887-bafb-63b8431f51e5;85;9.35;3.64;90.3;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;01/11/2026 14:12;01/11/2026 14:12
+214;8a4ea512-562d-4f56-af73-42d67f78c248;1005;14.12;3.43;86;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;04/11/2026 15:44;04/11/2026 15:44
+215;9fc02a55-5af8-434a-afe6-4e7c0e8803b2;81;7.92;3.53;95.9;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;02/10/2026 12:47;02/10/2026 12:47
+216;6ad56a5a-2aba-4ebc-961b-b60d0fe974cb;40;33.38;2.31;75.5;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20252;04/11/2026 16:08;04/11/2026 16:08
+217;edd7f122-9c28-40dc-abb3-9f7089585266;1005;11.62;3.33;93.5;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;04/11/2026 09:58;04/11/2026 09:58
+218;3f0523dd-a228-4191-914e-a0b1680d1148;73;5.02;3.81;94.7;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;16/10/2026 07:39;16/10/2026 07:39
+219;bc22e793-ab40-470d-8d26-e8efbb281399;73;7;3.72;93;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;20/10/2026 13:25;20/10/2026 13:25
+220;06c62d7a-c6dd-44b3-85af-c992c4245180;73;8.92;3.43;96.4;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;02/11/2026 18:21;02/11/2026 18:21
+221;80e44aa9-9229-45e8-9571-1d1ce38c1858;40;2.65;4;94.7;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;06/10/2026 09:31;06/10/2026 09:31
+222;624a85d6-11e0-4a59-9659-64436625dbb1;1005;7.25;3.66;94;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;22/10/2026 16:51;22/10/2026 16:51
+223;d1abd799-3387-49fa-b8ab-2fe3abb8ff84;73;11.95;3.34;92.6;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;22/10/2026 14:31;22/10/2026 14:31
+224;321152ed-f4e1-47f2-988f-6b669764ff7d;28;12.67;3.33;91.4;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;02/11/2026 10:25;02/11/2026 10:25
+225;29c02daf-cb44-43a8-9d83-e9f3d19d67f8;1008;18.58;3.21;82.6;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;02/11/2026 09:06;02/11/2026 09:06
+226;13085b5c-524f-481c-8215-f8d9473dea02;73;14.88;2.81;100;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;04/10/2026 19:53;04/10/2026 19:53
+227;73bde62a-9758-43d3-84d3-9b6cef010f7f;1005;23.78;2.95;78.7;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;01/11/2026 12:16;01/11/2026 12:16
+228;80a18b7f-54fc-4c52-8e0c-2931b72f33d7;1008;14.37;2.85;100;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;04/11/2026 11:10;04/11/2026 11:10
+229;01476801-9f45-4000-9123-72b1739f21c3;1008;5.38;3.57;100;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;04/11/2026 16:07;04/11/2026 16:07
+230;340e664c-bc34-4e46-bacf-774f4775dff0;1008;4.62;3.77;96.5;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;03/11/2026 14:17;03/11/2026 14:17
+231;3cbdce2f-c8c1-4c73-bea9-fd622effe5ec;73;24.22;2.97;77.3;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;27/10/2026 18:52;27/10/2026 18:52
+232;595c883f-0086-4825-ab24-a88e0be95892;73;18.73;3.11;84.8;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20252;04/11/2026 08:38;04/11/2026 08:38
+233;7f3e7b0c-42d5-4d3a-bfea-bf6f8fb75e0e;1008;16.02;3.97;68.7;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20261;08/10/2026 13:33;08/10/2026 13:33
+234;1b31c1f4-9ee8-4c37-9d40-ccc6b9bf82d9;73;20.5;3.2;79;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20261;24/10/2026 14:39;24/10/2026 14:39
+235;200f5581-7a71-4a24-9604-38f677fd1e0a;73;21.85;2.9;83.8;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;03/11/2026 08:01;03/11/2026 08:01
+236;18dba5d3-d1b5-42cb-b919-5951434d9474;1008;5.45;3.92;91.1;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;04/10/2026 16:17;04/10/2026 16:17
+237;0238a046-1c27-45ee-b75d-0ac3fced8cf9;73;39.9;2.5;57.7;Perhatian Khusus;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;03/11/2026 10:35;03/11/2026 10:35
+238;456248de-d202-47cd-8980-d54a1f007726;1008;43.2;2.28;56.6;Perhatian Khusus;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20261;29/10/2026 17:36;29/10/2026 17:36
+239;b34d08a5-a805-4f37-97c3-d98a36ca34e7;73;32.85;2.52;71.3;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20261;19/10/2026 08:52;19/10/2026 08:52
+240;d4377acb-0cda-4777-8cc3-af4d5d640026;40;10.67;3.27;96.9;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;16/10/2026 20:49;16/10/2026 20:49
+241;43ad6e75-0a26-4152-b3aa-cc7143126b06;1005;9.83;3.75;86.6;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;25/10/2026 17:07;25/10/2026 17:07
+242;48d8d208-a2c7-4576-a78d-2fda83ba1034;1008;33.9;2.48;70.2;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;29/10/2026 18:17;29/10/2026 18:17
+243;2194b806-6285-4e9f-9976-c5ee24958843;40;15.42;3.23;88.4;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;26/10/2026 19:45;26/10/2026 19:45
+244;8e0375fc-2464-4597-a33d-7a99a85666e7;28;12.62;3.75;81;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;08/10/2026 16:42;08/10/2026 16:42
+245;706f6a72-e92f-42a9-b92d-44c11d15ec68;84;21.65;3.38;72.2;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20261;11/10/2026 15:33;11/10/2026 15:33
+246;58a94009-665e-46aa-8501-ff0f86640e07;1005;7.22;3.83;89.8;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;04/11/2026 10:59;04/11/2026 10:59
+247;326f2f75-4e10-48df-867c-d56840b5ea98;1005;8.02;3.47;97.2;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;28/10/2026 07:00;28/10/2026 07:00
+248;4dc08f96-d867-4da8-9b4e-f35eb92cd603;1008;10.23;3.57;90.3;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;27/10/2026 09:08;27/10/2026 09:08
+249;62f1e8c7-7ae3-49d3-937f-7f2e7316dcc8;28;15.3;3.12;91.4;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;02/10/2026 07:19;02/10/2026 07:19
+250;ee9d34ad-eb5e-4c86-8f35-a34bac1d4e6f;73;16.8;3.22;85.9;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;13/10/2026 12:26;13/10/2026 12:26
+251;2e9e4711-7d2c-40fd-9d22-e2d5d93b052e;1005;21.6;2.72;88.8;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;04/11/2026 19:42;04/11/2026 19:42
+252;a579715a-bff8-47cb-a264-fcbb38668cf2;40;3.75;3.7;100;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;03/11/2026 10:40;03/11/2026 10:40
+253;ca7440d4-3986-428e-b833-55a2e0a3906a;40;6.13;3.53;99.5;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;09/10/2026 15:19;09/10/2026 15:19
+254;b1e67605-9a06-4ad2-922e-e9d914f65e50;73;17.15;3.18;86.2;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;22/10/2026 11:47;22/10/2026 11:47
+255;b6678d6e-6ed0-4283-b03d-7a853e194120;40;32.25;2.6;70.5;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;10/10/2026 15:29;10/10/2026 15:29
+256;87d4f53e-fe0b-4ed5-b9e5-465d4d679f50;28;24.12;2.99;77;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;01/11/2026 13:15;01/11/2026 13:15
+257;e0ce185a-c648-437d-9460-48d2789aab8a;1005;15.65;3.1;91.2;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;04/11/2026 15:38;04/11/2026 15:38
+258;8fffbe8b-d413-4b10-8e26-9beb820e6d51;1008;9.65;3.42;95.2;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;04/10/2026 14:02;04/10/2026 14:02
+259;40a78d79-0547-424d-8414-b0371f1f7669;85;2.67;3.95;95.9;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;01/11/2026 09:07;01/11/2026 09:07
+260;4ed26eb4-b30b-477c-b085-3bd392f93797;84;15.83;3.27;86.6;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;03/11/2026 13:03;03/11/2026 13:03
+261;466b0183-7a6c-42e4-b0ee-fd1f67dd8ac2;73;15.12;3.47;83;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;24/10/2026 11:24;24/10/2026 11:24
+262;579065ef-750e-46ee-8fa1-544714c99997;1008;29.1;2.78;72.3;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;02/11/2026 15:29;02/11/2026 15:29
+263;fd4037a9-6537-490d-aa82-32b085b5f14a;73;31.98;3.01;60.8;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20261;24/10/2026 16:50;24/10/2026 16:50
+264;c845fb69-3202-455c-9248-c401d7ef74a2;73;7.75;3.64;93.5;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;04/11/2026 18:54;04/11/2026 18:54
+265;f5ab6e35-d83f-4374-9bf7-f400500570ad;1005;8.05;3.38;99.4;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;27/10/2026 21:39;27/10/2026 21:39
+266;d0ac833c-5c8e-4969-b0d1-63db59c2117a;73;37.62;2.37;65.5;Perhatian Khusus;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20261;26/10/2026 08:25;26/10/2026 08:25
+267;bb0e7cd9-69da-4838-a584-607853a06ded;1008;10.07;3.49;92.6;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;03/11/2026 09:53;03/11/2026 09:53
+268;a40ffd7d-5128-4190-a417-7e9748dc35a4;28;35.62;2.87;57;Perhatian Khusus;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20252;02/11/2026 21:58;02/11/2026 21:58
+269;fd36161b-a9c8-4cb7-a8f6-8de06d2d7114;1008;19.38;3.13;83;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;04/11/2026 18:00;04/11/2026 18:00
+270;8b7452ea-692a-43a3-9493-94f0ee5a2b54;40;4;3.7;99.5;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;03/11/2026 07:46;03/11/2026 07:46
+271;ddb101a6-653a-437c-ba37-c90d98878853;40;24.12;3.11;74;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;30/10/2026 09:16;30/10/2026 09:16
+272;05c38b37-135a-417b-b90c-4b44728567e4;1008;13.25;3.34;90;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;03/11/2026 20:37;03/11/2026 20:37
+273;e8620d4a-6937-41e8-9fce-a7ea1bc59228;73;19.85;3.62;69.8;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20261;08/10/2026 09:56;08/10/2026 09:56
+274;b34d0e55-ff6d-4a4c-b299-03459c7a1d24;73;7.25;3.42;100;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;23/10/2026 16:37;23/10/2026 16:37
+275;21ae23ea-3a1d-43dd-998e-5d068b45e1be;81;7.15;3.84;89.7;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;03/11/2026 09:29;03/11/2026 09:29
+276;85550c1b-806b-4cf9-ac91-4d8cc3fbbffb;1008;20.58;2.91;86.1;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;23/10/2026 18:34;23/10/2026 18:34
+277;6ea399a5-ef40-4e87-b32c-1bd6ae761868;40;18.35;2.88;91.3;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;03/11/2026 21:18;03/11/2026 21:18
+278;06ad102a-d5ee-4ac0-ab2e-393b0260da4c;1005;15.27;3.17;90.2;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;02/11/2026 21:22;02/11/2026 21:22
+279;11d292f9-bb96-4e48-8c58-4b4251969633;1008;10.45;3.9;81.6;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;29/10/2026 09:55;29/10/2026 09:55
+280;670e79e7-de22-435d-a085-2528fb6d2d18;40;2.7;4;94.6;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;01/10/2026 13:46;01/10/2026 13:46
+281;37317497-f972-4aa0-a514-9a2a70c0ce36;40;13.22;3.35;89.8;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;01/11/2026 19:28;01/11/2026 19:28
+282;7fe397c7-ae75-42be-99bd-989a95846488;81;13.13;3.53;85.5;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;02/11/2026 21:32;02/11/2026 21:32
+283;9a996ee6-6964-4861-94fc-096e6bde513d;1005;7;3.7;93.5;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;04/11/2026 16:27;04/11/2026 16:27
+284;22712c5c-6279-40f0-badd-878bf34ba6b9;1008;8;3.6;94;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;21/10/2026 12:56;21/10/2026 12:56
+285;770a9a68-b6da-4f7a-a601-b303e8dc2cba;1008;8.98;3.67;90.3;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;01/11/2026 09:15;01/11/2026 09:15
+286;48c98f96-201a-4fc1-9e67-db27c3be7f15;73;29.48;2.49;78.8;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20252;04/11/2026 08:01;04/11/2026 08:01
+287;3e634d5c-a382-4981-8ae6-93ba07ac557e;1008;18.12;3.31;81;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;04/11/2026 12:09;04/11/2026 12:09
+288;730f5818-d100-44e3-b8d0-28eafc7fb179;1008;21.78;3.55;67.7;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20261;11/10/2026 15:41;11/10/2026 15:41
+289;25989815-bd13-462e-9a0c-92c2f57053ee;40;24.35;3.24;70.3;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20252;01/11/2026 13:43;01/11/2026 13:43
+290;5e01e503-70f2-402a-a3b5-f491a7262761;1008;35.4;2.66;62.7;Perhatian Khusus;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;01/11/2026 19:48;01/11/2026 19:48
+291;b03f0f1a-6186-4e81-b583-bb767d099c2b;1008;5.52;3.95;90.2;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;03/10/2026 15:16;03/10/2026 15:16
+292;a6d533fb-27bd-4ab3-afc2-d3d3d1674774;73;40.12;2.41;59.5;Perhatian Khusus;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;30/10/2026 13:49;30/10/2026 13:49
+293;8477766f-74a6-4abd-b2e8-b5b9aa5ffe03;40;31.33;2.31;79.6;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20261;20/10/2026 21:21;20/10/2026 21:21
+294;cc011a16-8ee5-42f3-9c63-5fb20830846d;73;21.67;2.93;83.4;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;15/10/2026 07:41;15/10/2026 07:41
+295;0912208b-2a42-4a68-98e7-bcf96e552932;40;7.77;3.49;97.2;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;04/10/2026 10:50;04/10/2026 10:50
+296;fbb70217-5db3-4719-94f1-7c3eeb91ad94;1008;12.1;3.16;96.8;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;17/10/2026 13:14;17/10/2026 13:14
+297;8a9cc8eb-0978-4828-9528-24409374c63c;73;9.62;3.23;100;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;04/11/2026 16:20;04/11/2026 16:20
+298;08806bb4-9e8d-4783-8c7b-adface81cd09;74;32.52;3.23;54.2;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;03/11/2026 18:18;03/11/2026 18:18
+299;3b157714-0040-41fc-be45-415ca0c0bf30;1008;34.83;2.65;64.1;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20261;19/10/2026 11:42;19/10/2026 11:42
+300;8423aa9e-6e3b-4a48-b74c-d5f999735d6d;73;14.58;3.31;88.1;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;20/10/2026 14:37;20/10/2026 14:37
+301;234cef4f-6fca-4526-b445-26870f20f7a3;1008;11.7;3.5;89.1;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;02/11/2026 21:19;02/11/2026 21:19
+302;4b6319c9-62d5-4707-a5fc-7ca5db3f099a;40;21.25;3.26;76;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;03/11/2026 10:26;03/11/2026 10:26
+303;1c13656f-2195-43d5-9075-5e7d8ec759a0;73;10.5;3.4;94;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;03/11/2026 18:59;03/11/2026 18:59
+304;6f520945-a3e2-4648-9026-4f9910b70090;73;17.85;3.6;74.3;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;04/11/2026 09:18;04/11/2026 09:18
+305;2b46fdf4-bfe0-4040-a326-6360ebfc9a58;1005;30.67;1.99;88.9;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20261;23/10/2026 20:44;23/10/2026 20:44
+306;f08eaf2a-8192-4fcf-bc2d-981ddb476dd5;40;15.62;2.95;95;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20261;11/10/2026 15:42;11/10/2026 15:42
+307;ca8bf5a3-f51f-4289-b113-4ea55267b72d;73;7.12;3.43;100;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;12/10/2026 08:31;12/10/2026 08:31
+308;916df821-6d2d-4c58-8eea-4ea04cab45fe;1008;14.27;3.31;88.7;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;04/11/2026 14:13;04/11/2026 14:13
+309;b57deb7c-25f2-458d-9c5c-946894f8ae4a;73;5.9;3.7;95.7;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;20/10/2026 07:04;20/10/2026 07:04
+310;8fd5b115-7bc9-4982-9ac2-271f1a50ebdc;73;32.4;2.86;63.7;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;03/11/2026 09:26;03/11/2026 09:26
+311;f015d61c-f1c2-42e6-bbdd-909b6771be58;1008;37.15;2.82;55.2;Perhatian Khusus;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20261;26/10/2026 16:50;26/10/2026 16:50
+312;c91cb65c-feab-4220-b9d2-2a7da3a75fe4;40;13.25;3.32;90.5;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;03/11/2026 10:44;03/11/2026 10:44
+313;847ee8bb-7294-4807-94e3-5486c766ce3f;73;10.88;3.13;100;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;17/10/2026 21:20;17/10/2026 21:20
+314;17fc6b5e-d8a8-4cdb-9b59-0542c88abd84;1005;8.5;3.46;96.5;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;04/11/2026 12:43;04/11/2026 12:43
+315;e4277851-21ad-4719-a3c4-5ff1cbb26704;73;6.55;3.64;95.9;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;23/10/2026 12:48;23/10/2026 12:48
+316;d8318ccd-ec49-488a-85a7-56b876eb996c;40;12.82;3.35;90.6;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;02/11/2026 17:38;02/11/2026 17:38
+317;896beefd-fc51-4504-9cc6-4a69c3fea4f3;84;15.12;3.25;88.5;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;22/10/2026 10:42;22/10/2026 10:42
+318;d9f7c62e-45b2-4e54-80fa-7b0e264e309d;28;12.9;3.06;97.7;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;12/10/2026 10:23;12/10/2026 10:23
+319;0beee767-c34a-4931-9552-c90ef8cc7fea;73;33.98;2.77;62.8;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;04/11/2026 09:44;04/11/2026 09:44
+320;95a1be83-1a97-47ee-84bd-194a0d022476;1008;43.58;2.55;49.1;Perhatian Khusus;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20261;24/10/2026 14:50;24/10/2026 14:50
+321;c82b281e-a70c-47e0-a707-c70bc0a707e0;1008;3.25;3.74;100;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;13/10/2026 17:00;13/10/2026 17:00
+322;1c314c3d-a544-4194-bca1-3fbd4ac8011f;1008;3.83;3.91;94.6;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;01/11/2026 11:07;01/11/2026 11:07
+323;309a8490-f7c9-4d7e-b2a8-d06a4430c8c2;40;8.7;3.48;95.6;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;01/11/2026 16:49;01/11/2026 16:49
+324;cba2af84-a465-410f-b48d-eec5b240b9e7;28;15.23;3.07;92.8;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;21/10/2026 11:50;21/10/2026 11:50
+325;1c21764c-723c-476b-9510-604d8b26858a;73;36.5;2.94;53.5;Perhatian Khusus;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20252;01/11/2026 10:37;01/11/2026 10:37
+326;483c0feb-fca8-4791-a944-27b236e02e99;85;8.55;3.4;97.9;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;17/10/2026 18:40;17/10/2026 18:40
+327;65f82731-5708-4286-a51a-f7b51496373f;1008;8.6;3.6;92.8;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;16/10/2026 08:25;16/10/2026 08:25
+328;564a706e-63a9-4356-a621-c3216b9005af;1008;6.5;3.48;100;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;04/10/2026 11:01;04/10/2026 11:01
+329;cac26db4-5116-4563-a7d3-5b111643425a;1008;22.4;3.08;78.2;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;02/11/2026 09:53;02/11/2026 09:53
+330;dbb13a4d-bbae-4f9b-9bd4-13b6c3026277;1008;29.3;2.36;82.4;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20261;30/10/2026 21:34;30/10/2026 21:34
+331;442fe824-48b9-4b12-9d95-5b384cc7f60c;1008;11.68;3.11;98.9;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;01/11/2026 14:00;01/11/2026 14:00
+332;a7310caa-993a-43fe-ad5d-339cf55c9588;1008;16.45;3.38;82.6;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;03/11/2026 13:30;03/11/2026 13:30
+333;3e4b2a60-f71a-4d37-bb13-9e7f11da8d89;73;4.88;3.77;96;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;03/11/2026 19:33;03/11/2026 19:33
+334;d58e4017-7bbe-4693-b9e2-93cfecd56a9c;85;15.42;3.07;92.4;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;04/11/2026 08:40;04/11/2026 08:40
+335;d05094e3-6c5f-40d5-b46c-fac5a235df4a;1005;37.95;2.1;71.6;Perhatian Khusus;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20261;27/10/2026 21:00;27/10/2026 21:00
+336;02c2d419-aca1-4e63-8433-e928fefdc376;1008;8.48;3.81;87.8;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;01/10/2026 12:52;01/10/2026 12:52
+337;e46aa84f-5673-49ef-9ee5-fea04e9c33b2;28;9.75;3.22;100;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;18/10/2026 19:51;18/10/2026 19:51
+338;f5edc904-091b-4c88-9233-9320e564fdb0;40;11.35;3.46;90.8;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;04/11/2026 14:15;04/11/2026 14:15
+339;cd266508-856d-48d6-b048-1107a1b1d7d4;1005;6.33;3.61;97.1;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;28/10/2026 17:17;28/10/2026 17:17
+340;1ab5cc57-2756-4198-839a-d996948b7e35;1005;8.52;3.45;96.7;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;03/11/2026 08:27;03/11/2026 08:27
+341;1c9cefee-590f-473d-9d13-c6e810d1ee74;28;13.4;3.4;88.2;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;22/10/2026 07:49;22/10/2026 07:49
+342;10b21c76-6a3f-4890-83e2-7ffd68fc79f5;1008;15;3.7;77.5;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;06/10/2026 11:24;06/10/2026 11:24
+343;4090c9a0-3098-4bbd-aefd-2f16a0982b16;81;12.13;3.55;87;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;25/10/2026 11:50;25/10/2026 11:50
+344;433e9e35-a26a-4f2f-b4a9-170b1238965d;1005;11.98;3.25;94.8;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;27/10/2026 15:27;27/10/2026 15:27
+345;cd537659-3a79-4b27-87a2-4ed9f03004ba;40;4.25;3.66;100;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;04/11/2026 19:20;04/11/2026 19:20
+346;44b6b23c-3161-45a0-9c4b-3786601cb421;73;7.25;3.42;100;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;01/11/2026 20:33;01/11/2026 20:33
+347;549472c9-bcc6-4868-8766-c7cca2be1942;1005;8.08;3.81;88.6;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;04/11/2026 07:51;04/11/2026 07:51
+348;2e1724e6-f168-43cb-81ad-c77afba94e3b;1005;15.45;3.16;90.1;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;04/11/2026 10:44;04/11/2026 10:44
+349;13a67caa-83c6-4c44-9e72-a092990f30d3;1008;12.17;3.25;94.4;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;01/11/2026 18:41;01/11/2026 18:41
+350;d1a7f7e0-6ca8-4c8c-b798-6647f36ae84c;73;6.08;3.63;97.1;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;03/11/2026 14:42;03/11/2026 14:42
+351;86700d4f-38d8-49d1-9cff-2d2153991b59;1005;7.75;3.38;100;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;02/11/2026 19:44;02/11/2026 19:44
+352;f662c7cb-945a-4765-91f5-4d073d87058b;28;15.73;3.05;92.3;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;04/11/2026 12:42;04/11/2026 12:42
+353;f6e46a42-a68f-48e5-b5e3-7fc38120b1c9;1008;29.05;2.82;71.4;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20261;17/10/2026 15:30;17/10/2026 15:30
+354;dfe6f13f-f8b7-4bce-be08-9d3e10ad1cfa;40;34.2;2.88;59.6;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;01/11/2026 15:13;01/11/2026 15:13
+355;705bffc7-ff24-439e-adb6-181a8c11870d;1005;7.8;4;84.4;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;01/11/2026 13:45;01/11/2026 13:45
+356;7fdaca75-ca3d-4812-9415-9f05cfe4f70e;1008;20.52;3.65;67.7;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20261;09/10/2026 12:54;09/10/2026 12:54
+357;2041fb23-3a9c-48e7-9678-3a7eb12b93cc;1008;33.25;2.86;62;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;02/11/2026 10:55;02/11/2026 10:55
+358;9d1873a2-c72f-4426-8647-f45da9b5389c;1008;6.8;3.78;91.9;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;04/11/2026 18:48;04/11/2026 18:48
+359;6c354628-0444-417a-8128-2377383c7160;1005;12.23;3.21;95.3;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;25/10/2026 08:20;25/10/2026 08:20
+360;ef830c3b-d525-4c93-886f-e99f45148100;73;29.3;2.74;72.9;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;16/10/2026 19:45;16/10/2026 19:45
+361;c0f7f8b6-5e65-4c8c-9030-6558603784d0;1005;29.95;3.26;58.6;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;02/11/2026 08:04;02/11/2026 08:04
+362;f56500f1-c3fd-4606-a2ce-1328cc45f72b;1005;33.33;2.79;63.6;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;04/10/2026 14:41;04/10/2026 14:41
+363;2fb94805-e0c1-430d-b8a3-2f36896db970;1005;33.08;2.17;79.6;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20261;10/10/2026 20:32;10/10/2026 20:32
+364;584704e2-a768-4859-a044-a09917891f12;1008;14.8;3.42;84.9;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;09/10/2026 15:53;09/10/2026 15:53
+365;9a7e6884-3100-480f-98ad-5f8e93e9065f;1005;10.98;3.25;96.8;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;22/10/2026 16:07;22/10/2026 16:07
+366;3de447cb-b849-4dcd-9b58-cf755115b6b4;1008;12.83;3.55;85.6;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;03/11/2026 15:07;03/11/2026 15:07
+367;ba26588e-2be9-4bff-ad8e-981802ad9874;1008;11.48;3.23;96.3;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;04/10/2026 18:15;04/10/2026 18:15
+368;065064cb-fb9d-4023-8131-2de500b11040;1005;3.25;3.74;100;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;03/11/2026 14:47;03/11/2026 14:47
+369;ce2687c6-83e6-4fc0-a109-cf26cd559e25;73;18.6;3.78;68.3;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;02/11/2026 07:30;02/11/2026 07:30
+370;241142e1-c166-494a-9aff-e1ace5b97262;73;22.28;3.01;80.2;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;03/11/2026 18:12;03/11/2026 18:12
+371;0a973d14-816c-4977-9835-85f50c035cbe;73;12.7;3.66;83.1;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;02/11/2026 13:39;02/11/2026 13:39
+372;e5e1fc54-9645-46b1-9494-f6b2f8244b37;1008;8.38;3.79;88.5;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;06/10/2026 12:12;06/10/2026 12:12
+373;b5a476ca-6ef0-4ff2-acd8-1acb4f9d641e;73;7.38;3.59;95.5;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;07/10/2026 14:40;07/10/2026 14:40
+374;2614e835-4c7a-4e1b-a6f5-bffc0bd38a03;1008;10.75;3.58;89;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;25/10/2026 09:51;25/10/2026 09:51
+375;e5770438-911b-472c-887d-d2e2d7d7c25d;81;29.55;2.88;68.9;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;03/11/2026 12:41;03/11/2026 12:41
+376;572219f5-f8e4-4713-aa4e-b37e3e359be5;1005;16;3.04;92;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;04/11/2026 19:57;04/11/2026 19:57
+377;6fbbf271-c64a-41db-b452-54175052dcc6;1005;9.23;3.51;93.8;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;15/10/2026 16:02;15/10/2026 16:02
+378;795c003f-5d13-4ee8-a577-81ef2cd44cf6;28;21.98;2.69;88.8;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;04/11/2026 18:08;04/11/2026 18:08
+379;e05de979-cfa1-4480-82f5-df5730cd1e26;40;15.52;3.13;90.7;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;15/10/2026 16:58;15/10/2026 16:58
+380;13aad933-5829-4494-897e-6e2236568bd9;40;9.75;3.74;87;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;03/11/2026 11:42;03/11/2026 11:42
+381;98a54f48-a299-47ca-ac54-623291796f74;84;10.8;3.52;90.4;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;03/11/2026 09:05;03/11/2026 09:05
+382;b6d8e35a-b8c3-4c12-b28e-9b24aaa0306a;74;30.05;2.84;68.9;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20261;25/10/2026 18:35;25/10/2026 18:35
+383;5c0199de-3267-44cc-8c37-aacecbd9243f;1005;23.17;2.99;78.9;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;01/11/2026 14:12;01/11/2026 14:12
+384;c79e4a51-04a5-45ed-9945-b209b23271c8;40;15.4;3.06;92.7;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;12/10/2026 15:53;12/10/2026 15:53
+385;3c291e37-8baa-4445-8522-e56b8a3e40ef;1005;33.72;2.69;65.3;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;03/11/2026 14:06;03/11/2026 14:06
+386;9e3368f9-6402-43f7-8255-0a3f3844ecd8;1008;10.85;3.28;96.3;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;28/10/2026 15:48;28/10/2026 15:48
+387;15ef4b8d-fa69-41e0-8b46-decb513524af;1008;25.58;2.69;81.6;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;01/11/2026 20:53;01/11/2026 20:53
+388;3b54112b-fe7e-4fde-ad19-46dd7724f441;85;26.22;2.73;79.3;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20261;01/10/2026 10:59;01/10/2026 10:59
+389;7aa8f0af-8831-4bbf-9737-ddf40e7dbeb9;85;28.25;2.88;71.5;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;17/10/2026 21:16;17/10/2026 21:16
+390;0ae4258d-d2cc-403a-ab28-48303aae1c51;40;44.5;2.08;59;Perhatian Khusus;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;24/10/2026 07:53;24/10/2026 07:53
+391;328acd07-34df-4505-9111-b636c4d34fdb;1008;9.52;3.31;98.2;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;01/11/2026 08:43;01/11/2026 08:43
+392;50485655-5f07-4c90-8e72-cead776c9b98;28;3.6;4;92.8;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;18/10/2026 13:59;18/10/2026 13:59
+393;18f0c489-111c-446d-855f-416264a7c341;73;37.38;2.39;65.5;Perhatian Khusus;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20261;07/10/2026 20:19;07/10/2026 20:19
+394;a7b900d5-e6d3-4c6a-934b-648f055d210c;1008;5.87;3.93;90;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;23/10/2026 17:44;23/10/2026 17:44
+395;cada485a-afdc-4edc-9ae3-836b6b33dc95;73;3.38;3.73;100;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;04/11/2026 16:21;04/11/2026 16:21
+396;cd22fe6c-cf09-4add-8799-cadb7be53964;84;7.12;3.77;91.5;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;23/10/2026 19:10;23/10/2026 19:10
+397;46c940f5-28dc-4bb4-a82c-b2cf02bcbbf9;73;14.12;3.41;86.5;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;10/10/2026 08:26;10/10/2026 08:26
+398;71f66bcf-170f-478b-baa2-6839f0c19a97;1008;5.9;3.7;95.7;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;03/11/2026 11:15;03/11/2026 11:15
+399;d3a92d57-d986-461a-9a66-13b567f6c3d1;1008;37.75;2.72;56.5;Perhatian Khusus;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;10/10/2026 17:35;10/10/2026 17:35
+400;c2989d15-e356-4b19-8968-1e7f669400d2;74;8.12;3.35;100;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;11/10/2026 12:27;11/10/2026 12:27
+401;cb00e642-3b8a-4086-a413-bf1344d929f8;81;14.08;3.31;89.1;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;01/11/2026 14:45;01/11/2026 14:45
+402;87a72ea3-8fa1-4921-a052-e2c3f5b8bb43;74;7.45;3.8;90.1;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;20/10/2026 17:44;20/10/2026 17:44
+403;e7bd6325-84fc-4e68-82ab-e7f86cd9a168;73;40.1;2.32;61.8;Perhatian Khusus;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;01/11/2026 10:21;01/11/2026 10:21
+404;523b5507-602e-4b95-917b-5417dd690acb;1008;7.83;3.87;87.6;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;12/10/2026 08:44;12/10/2026 08:44
+405;d1d2787d-b404-4472-8711-495c70c63885;40;14.37;2.85;100;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;28/10/2026 18:36;28/10/2026 18:36
+406;e727ac29-868f-41ee-961d-452c8900cab2;1008;8.3;4;83.4;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;21/10/2026 15:14;21/10/2026 15:14
+407;d39b2e24-7790-4b0d-b64c-f1ffeefb2706;85;27.58;3.01;69.6;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20261;08/10/2026 13:12;08/10/2026 13:12
+408;f18c03ab-1032-469b-a61b-bf1dc9037f70;40;31.2;2.76;68.6;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;09/10/2026 15:38;09/10/2026 15:38
+409;fdea7490-b79c-4027-8c8c-3c131dd71a21;1008;11.87;3.45;90;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;04/11/2026 15:19;04/11/2026 15:19
+410;bd474f4c-3fb2-433c-80b5-06bfcff6bb6a;1005;3.8;3.72;99.4;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;01/11/2026 21:10;01/11/2026 21:10
+411;ee041b1f-2fff-4975-8177-dde12b0d2a70;73;23.15;2.9;81.2;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;10/10/2026 19:59;10/10/2026 19:59
+412;15609af7-5e40-4ced-aa68-04322980ed89;1008;13.08;3.45;87.6;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;01/11/2026 18:57;01/11/2026 18:57
+413;9c4384af-a522-4629-bcdc-82b096deb8a6;73;20.6;3.12;80.8;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;22/10/2026 19:50;22/10/2026 19:50
+414;606593c0-8032-48ca-a8ad-2e62439eeb28;73;12.35;3.46;88.8;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;03/11/2026 17:10;03/11/2026 17:10
+415;6cfff48a-8c86-4e55-8400-de6f062f2635;40;10.95;3.42;92.6;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;01/11/2026 08:32;01/11/2026 08:32
+416;8c53bf70-d4e8-4862-a485-51287ae22b02;1008;29.25;2.84;70.5;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;01/11/2026 11:12;01/11/2026 11:12
+417;10ae3894-f7b6-43a6-9da7-9d05e28ec987;40;34.62;2.43;70;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20261;06/10/2026 14:46;06/10/2026 14:46
+418;48b2a4a8-0e87-473c-a77d-4eb04f698989;73;12.5;3.3;92.5;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;01/10/2026 15:07;01/10/2026 15:07
+419;99f6aea2-1501-456c-88c6-293a7825b580;73;25.5;3.12;71;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20261;13/10/2026 14:24;13/10/2026 14:24
+420;710d7187-de9b-400c-b588-028fbe242a87;73;8.58;3.57;93.6;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;01/11/2026 13:45;01/11/2026 13:45
+421;9ecd4a17-aa92-4869-bc2a-4a3c49f2d0b1;85;37.83;2.11;71.6;Perhatian Khusus;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20252;03/11/2026 19:56;03/11/2026 19:56
+422;7175629a-cd1b-4fb0-b571-0ea1116089f5;1008;14.45;3.38;86.6;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;17/10/2026 16:02;17/10/2026 16:02
+423;4d21d7d9-0bbd-4e22-9d54-11443903e0c3;1008;11.9;3.22;95.7;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;01/11/2026 16:03;01/11/2026 16:03
+424;3be6360f-05e7-4c52-be41-6fed76870e30;1008;33.9;3.06;55.7;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20261;17/10/2026 14:33;17/10/2026 14:33
+425;45e5c014-a3b5-4bf7-b1fd-e12722e5c1e4;40;25.65;2.8;78.7;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20252;03/11/2026 15:56;03/11/2026 15:56
+426;09e08cae-5378-4128-ac4a-8573c956ea55;1008;9.17;3.37;97.4;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;03/11/2026 18:10;03/11/2026 18:10
+427;682a86b0-af54-4691-a387-b28742488d13;73;12.18;3.57;86.4;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;02/11/2026 09:44;02/11/2026 09:44
+428;f044aaa8-cb45-49f9-9256-ac002bba3d5f;40;14;3.48;85;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;27/10/2026 10:19;27/10/2026 10:19
+429;9b5c9fbf-02f2-40d0-a0b9-3bc6e05ebf77;1008;30.88;2.41;78;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;04/11/2026 18:53;04/11/2026 18:53
+430;6c74d2d6-3a6c-40d9-960c-7c92f8516556;28;16.42;3.09;89.9;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;09/10/2026 15:08;09/10/2026 15:08
+431;474c1eae-87ae-4e31-83d4-d176f6ff1a52;1005;28.13;2.53;80.5;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;04/11/2026 07:56;04/11/2026 07:56
+432;f2d0f5bf-1d81-4df1-a9e5-e455a46742fb;40;9.9;3.54;91.7;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;02/10/2026 07:34;02/10/2026 07:34
+433;ebbfb000-17d4-4e58-b178-7e7fe7563931;81;4.8;3.88;93.4;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;04/11/2026 09:16;04/11/2026 09:16
+434;b287a4aa-0dbc-45c1-a02d-3128d82354c8;1008;10.62;3.23;98;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;03/11/2026 19:57;03/11/2026 19:57
+435;e36ff531-e94c-4945-8a32-23fe521d61a0;40;47.35;1.74;61.8;Perhatian Khusus;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20252;02/11/2026 18:11;02/11/2026 18:11
+436;fde87e19-b10b-4a51-b43d-e3a3fe7620c5;1005;9.5;3.68;89;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;03/11/2026 13:59;03/11/2026 13:59
+437;20e921ae-d48a-40e5-b718-666b9aed8f78;73;32;1.96;87;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;01/11/2026 21:22;01/11/2026 21:22
+438;035d9071-7456-44a8-961f-ee6c81fa4651;74;41.15;2.32;59.7;Perhatian Khusus;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20261;06/10/2026 12:09;06/10/2026 12:09
+439;6b88caa7-0b1d-4573-a826-9214ab011fc8;1008;28.82;3.19;62.6;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;02/11/2026 17:26;02/11/2026 17:26
+440;e842c4b7-9584-40d3-9d74-2419940bca6f;74;35.5;2.36;70;Perhatian Khusus;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;03/11/2026 16:49;03/11/2026 16:49
+441;6474f559-66b3-4e46-af02-44d3d507c270;1008;7.75;3.38;100;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;12/10/2026 10:44;12/10/2026 10:44
+442;8e5a854e-9e71-4673-8c1f-aa8ec08736fe;74;37.52;2.79;55.2;Perhatian Khusus;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;26/10/2026 18:36;26/10/2026 18:36
+443;fdf8f426-d74e-4d06-9ba8-0ef168863364;73;10.23;3.69;87.3;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;04/11/2026 08:20;04/11/2026 08:20
+444;7dae45aa-bac5-45b5-a8f4-9623b12c49f8;73;48.05;1.5;66.4;Perhatian Khusus;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20261;30/10/2026 20:51;30/10/2026 20:51
+445;26b4b2d1-dd67-46cd-af2f-4ec7b1b7f040;40;27.5;3.2;65;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20261;11/10/2026 14:02;11/10/2026 14:02
+446;b9b5b466-cae9-4cce-88a6-e8d0ccb24df8;1008;8.37;3.41;98;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;04/10/2026 10:48;04/10/2026 10:48
+447;0b83d1ac-2cb2-48b5-83db-3f927fbc317b;40;13.45;3.22;92.6;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;02/11/2026 17:39;02/11/2026 17:39
+448;4eb92a99-bfe1-4042-826b-652e4daa3862;1008;16.45;3.26;85.6;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;04/11/2026 11:57;04/11/2026 11:57
+449;7b9e56b0-ad35-4fa7-9aa6-8eaac0edb38b;73;16.12;3.47;81;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;04/11/2026 18:04;04/11/2026 18:04
+450;875834fd-3f8f-4de9-ae0b-6007e0a36c8c;73;9.17;3.69;89.4;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;04/10/2026 15:05;04/10/2026 15:05
+451;01accde4-b56d-44f5-acae-c21108ee176c;85;14.12;3.17;92.5;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;04/10/2026 12:01;04/10/2026 12:01
+452;c6533851-11c1-422e-a094-f163f0e43ec6;1008;13.47;3.49;85.8;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;21/10/2026 17:20;21/10/2026 17:20
+453;dbb6dfdd-b0ae-4c1b-8315-818d9ca3e373;1005;12.38;3.51;87.5;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;03/11/2026 08:50;03/11/2026 08:50
+454;4a609949-8109-4cec-a85b-6fe6a5fa46d3;1008;8.48;3.57;93.8;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;09/10/2026 20:54;09/10/2026 20:54
+455;9d3df884-64f2-4a43-9132-0046fc947106;40;16.73;3.03;90.8;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;19/10/2026 21:52;19/10/2026 21:52
+456;d442f037-4953-4596-903f-1304d12eff43;40;37.9;2.32;66.2;Perhatian Khusus;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20261;20/10/2026 12:30;20/10/2026 12:30
+457;60593c88-9d76-4544-baa1-3f0d27aeafdf;1005;3.9;4;92.2;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;01/11/2026 21:35;01/11/2026 21:35
+458;d3c6988d-ea5e-4b1b-8a6c-4585f6e42a18;40;18.08;3.27;82.1;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;01/11/2026 08:01;01/11/2026 08:01
+459;c69f2520-1e8f-4b7c-af82-881a728b840d;73;14.55;3.24;89.9;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;27/10/2026 21:35;27/10/2026 21:35
+460;46ec6329-2c66-4fab-be88-4ee7fcd64947;40;6.15;3.78;93.2;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;04/11/2026 20:25;04/11/2026 20:25
+461;33fc6d92-5275-4bbc-b063-94945661dd31;73;5.75;3.54;100;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;02/11/2026 20:49;02/11/2026 20:49
+462;460203ce-235b-49bf-a4c9-4e86e8cd1183;40;15.67;3.43;82.9;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;04/10/2026 19:40;04/10/2026 19:40
+463;8ef62165-e343-4747-aa56-8ed084ba4ba1;1005;7.55;3.92;86.9;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;02/11/2026 19:55;02/11/2026 19:55
+464;835183b3-aaf4-4301-8ab1-67a61cab51fc;40;4;4;92;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;03/11/2026 09:19;03/11/2026 09:19
+465;54888a10-7786-409a-a6bc-19ab2836f14f;1008;12.98;3.39;89.3;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;02/11/2026 10:30;02/11/2026 10:30
+466;91f1a82e-5644-4b6d-96d7-7d6e2fe8bc9c;1008;19.75;2.98;86;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;14/10/2026 17:42;14/10/2026 17:42
+467;2e2a4cd3-b623-4009-a38a-34c057f97e64;1008;10.15;3.78;85.2;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;04/11/2026 13:28;04/11/2026 13:28
+468;dfaddb76-d986-4102-87b2-af6256baeea3;40;16.95;3;91.1;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;29/10/2026 17:31;29/10/2026 17:31
+469;94e62209-10e5-40b6-8ebb-845edafa31a0;73;6.2;3.52;99.6;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;03/11/2026 13:26;03/11/2026 13:26
+470;fc6f1b20-0a7c-47f3-b350-1a1ccdce1407;73;15.05;3.14;91.4;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;25/10/2026 21:55;25/10/2026 21:55
+471;008c7f1e-c6a5-4d27-b846-657030c69721;40;7.73;3.65;93.3;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;21/10/2026 13:56;21/10/2026 13:56
+472;0491b157-5d07-4eb0-8473-e65a2d5e433b;1008;18.05;3.08;86.9;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;04/11/2026 13:55;04/11/2026 13:55
+473;e2f96640-e451-4554-bd91-ffb224f29887;1008;14.65;3.24;89.7;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;21/10/2026 20:18;21/10/2026 20:18
+474;4388f989-631a-4541-bd67-e16912a0a474;1008;18.45;3.14;84.6;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;19/10/2026 07:52;19/10/2026 07:52
+475;f2ca9cb3-a547-4594-98ff-10bdd32f8b73;1005;13.75;3.28;90.5;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;20/10/2026 14:59;20/10/2026 14:59
+476;c8efd570-dd07-4a3c-a252-c232ee15e02e;73;7.5;3.4;100;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;03/11/2026 15:30;03/11/2026 15:30
+477;fde25e34-78ab-496a-bc60-f050152402d8;1008;11.8;3.36;92.4;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;01/11/2026 18:57;01/11/2026 18:57
+478;441c44c2-815d-4ed4-9f12-76b0160f1a2d;73;12.35;3.46;88.8;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;30/10/2026 14:33;30/10/2026 14:33
+479;8d696fba-502d-4a2d-8dae-41f836819517;40;13.4;3.04;97.2;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;03/11/2026 09:52;03/11/2026 09:52
+480;6e091b98-6efd-4bea-92dc-45a638ab3304;1008;7.88;3.55;95.5;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;04/11/2026 17:30;04/11/2026 17:30
+481;42489a8f-a42a-4c75-ab62-847c7cedbb0d;1005;22.35;2.98;80.8;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;02/11/2026 15:43;02/11/2026 15:43
+482;dc3e3bfc-76ea-47ec-b94d-c2b6feadc33c;1005;10.58;3.37;94.6;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;03/10/2026 13:47;03/10/2026 13:47
+483;2b78b802-6d78-444f-9a9d-09b08cc780dd;40;4.08;3.91;94.1;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;02/11/2026 08:03;02/11/2026 08:03
+484;dc46652c-a9b3-425f-8ea8-ca1b61aa9f0b;1008;15.68;3.13;90.4;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;06/10/2026 21:08;06/10/2026 21:08
+485;ebf8f9ad-9d47-4414-9d0f-555bcedd74f6;28;32.9;2.74;65.7;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20261;26/10/2026 17:15;26/10/2026 17:15
+486;0ac6e7d3-007e-488b-861d-a64b24c28515;1008;32.62;2.57;70.5;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20261;21/10/2026 19:19;21/10/2026 19:19
+487;2afc4195-c388-4bad-8e5d-47459e731c9e;1005;19.4;3.14;82.7;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;16/10/2026 12:38;16/10/2026 12:38
+488;08e10ff1-2ef3-4094-a1f2-40c8998fa84d;81;12.75;2.98;100;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;01/10/2026 20:43;01/10/2026 20:43
+489;d716ac00-58f4-4b79-9953-3ab837d5ff8a;1008;4.88;3.61;100;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;10/10/2026 12:15;10/10/2026 12:15
+490;e8007c69-767f-4b87-a8f0-f1432ce58449;73;17.17;3.07;88.9;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;08/10/2026 19:26;08/10/2026 19:26
+491;2b16881d-a750-4614-91c7-6300407e1087;1008;3.92;3.93;93.9;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;24/10/2026 14:25;24/10/2026 14:25
+492;2698c031-07d1-4d0b-bb7b-e254f71d07bd;40;6.6;3.82;91.3;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;02/11/2026 17:41;02/11/2026 17:41
+493;dfc41a8e-cd67-4729-83cc-d2bf730d8fdd;1008;25.33;2.65;83.1;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20261;16/10/2026 21:51;16/10/2026 21:51
+494;e50d8fc8-1254-4f55-9b70-37d3b66b144b;40;4.7;4;90.6;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;03/11/2026 15:21;03/11/2026 15:21
+495;333859c8-abc8-459a-893d-3ad683a3f2c6;40;32.7;2.88;62.6;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20261;26/10/2026 19:07;26/10/2026 19:07
+496;af9d4e84-31a1-4e68-afde-e4a765d2cd73;40;19.23;3.23;80.8;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;04/11/2026 21:48;04/11/2026 21:48
+497;3c1d2b39-247a-4de6-b941-c02243801c65;74;19.38;3.45;75;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;03/11/2026 10:09;03/11/2026 10:09
+498;1f638d47-616b-4caf-8d17-e19978edac35;73;13.2;3.28;91.6;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;01/11/2026 11:44;01/11/2026 11:44
+499;da6455f3-3ca5-4058-a51d-c24d1a3ae19b;73;18.05;3.2;83.9;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;15/10/2026 15:51;15/10/2026 15:51
+500;f2fb30ca-2482-40dc-a521-5bab48a04668;1005;10.45;3.76;85.1;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;01/11/2026 20:25;01/11/2026 20:25
+501;8f7ad94f-de2a-4256-8f90-0fea8197c74d;40;5;4;90;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;02/11/2026 15:59;02/11/2026 15:59
+502;0e3ff4fe-3a9d-4ddd-a846-9f5e06ab56f8;1008;22.6;2.6;89.8;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;02/11/2026 17:00;02/11/2026 17:00
+503;05b19748-7b5b-48c6-a211-37575ace6950;1005;3.25;3.74;100;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;01/11/2026 08:26;01/11/2026 08:26
+504;dc5ad609-bb24-444b-96e3-885ce43c15b6;73;25.85;2.46;86.8;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;03/11/2026 18:01;03/11/2026 18:01
+505;a7574e1e-e4f0-4277-baad-bf70d37f4d77;1005;5;3.66;98.5;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;03/11/2026 20:15;03/11/2026 20:15
+506;2c1e8c51-5def-4928-8261-96c631564a61;73;12.2;3.24;94.6;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;02/10/2026 13:45;02/10/2026 13:45
+507;a83a8204-ec54-4e86-a8e9-a61587b0654f;1005;32.22;2.87;63.8;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;28/10/2026 21:19;28/10/2026 21:19
+508;7ae486d2-1865-4d64-8e55-2bd112c1baaa;1008;13.2;3.14;95.1;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;03/11/2026 14:28;03/11/2026 14:28
+509;e2e0946e-d36f-4315-ba8b-8f99405a0ef0;1008;10.98;3.41;92.8;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;28/10/2026 09:29;28/10/2026 09:29
+510;aebb4958-1c93-49dc-a3d9-c9cf4bf85677;1005;6.38;3.55;98.5;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;04/11/2026 20:49;04/11/2026 20:49
+511;0be977fb-26db-4b75-8c18-88977da811fe;40;14.35;3.22;90.8;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;17/10/2026 15:36;17/10/2026 15:36
+512;ac71642c-5ef7-46eb-a88d-bea920289432;1005;19;3.3;79.5;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;23/10/2026 15:13;23/10/2026 15:13
+513;6117a41f-723a-4232-8d64-c6c4713c7c48;1008;27.02;2.55;82.2;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;04/11/2026 18:04;04/11/2026 18:04
+514;2fd317f5-4fb2-43ac-83e0-45d26632e890;74;5.8;3.8;93.4;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;04/11/2026 16:50;04/11/2026 16:50
+515;bcf723fa-9496-453d-ac76-858043cb62e1;1008;13;3.24;93;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;05/10/2026 10:31;05/10/2026 10:31
+516;91b41aa2-4b3f-4e37-a69a-7af159aae418;1008;11.88;3.25;95;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;10/10/2026 11:12;10/10/2026 11:12
+517;958ae0e6-a8ec-4c78-949b-d3f7dbc1c0b3;40;14.5;3.38;86.5;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;09/10/2026 09:16;09/10/2026 09:16
+518;f9b3c1b8-7d38-4026-a878-6d286e440389;1008;15.6;2.98;94.3;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;04/11/2026 09:44;04/11/2026 09:44
+519;952ca8e9-2be8-43a0-939a-4c4e85586452;1008;4.5;3.64;100;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;03/10/2026 20:05;03/10/2026 20:05
+520;f1e3ac38-3364-4f10-8e0c-72f1bc12bed8;73;13.15;3.34;90.2;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;04/11/2026 14:07;04/11/2026 14:07
+521;7fe6e30f-8f5e-452b-8d3f-591314f022aa;40;26.35;2.72;79.3;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;16/10/2026 21:52;16/10/2026 21:52
+522;c5179300-a7cd-4293-ba67-5b2d34153ef6;81;30.3;2.96;65.4;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;19/10/2026 14:54;19/10/2026 14:54
+523;3f70b789-06de-48ca-8d3d-9c0dd2b022bd;73;4.08;3.71;99.1;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;05/10/2026 16:29;05/10/2026 16:29
+524;30ce3995-e35c-4112-8599-d3681c84c905;81;42.05;2.32;57.9;Perhatian Khusus;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20261;13/10/2026 20:05;13/10/2026 20:05
+525;69e17868-e2e3-4cec-bc7f-5892f94bd714;73;19.77;3.31;77.7;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;01/11/2026 15:54;01/11/2026 15:54
+526;2061490e-488b-4d86-8bff-fbda9204cb2f;1008;30.05;2.64;73.9;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20261;03/10/2026 09:16;03/10/2026 09:16
+527;6f0b2add-c96f-42d0-b87d-10555aab3025;85;34.05;2.7;64.4;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;02/11/2026 09:13;02/11/2026 09:13
+528;ac8f9df5-cfea-4f20-9764-13627dc759c4;73;7.58;3.91;87.1;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;03/11/2026 20:06;03/11/2026 20:06
+529;3abed252-9068-4b64-b90c-579be7315b37;1008;9.73;3.57;91.3;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;01/11/2026 07:54;01/11/2026 07:54
+530;4e2d3b7a-81d0-49d8-81b8-6e7b998e1cea;1008;5;3.9;92.5;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;01/10/2026 10:26;01/10/2026 10:26
+531;c5201501-f34e-4314-8007-cc0bd80ab8eb;85;9.75;3.3;98;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;02/11/2026 07:52;02/11/2026 07:52
+532;429c73b3-0e2f-438d-9312-470c08b407a5;28;7;3.44;100;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;22/10/2026 10:40;22/10/2026 10:40
+533;e91a0bfe-4ea0-4b77-9caf-1d1f4fc6f5f9;73;10.2;3.28;97.6;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;03/10/2026 14:25;03/10/2026 14:25
+534;45a37db4-801d-4190-a5bf-185c0a49927a;40;35.8;2.82;57.9;Perhatian Khusus;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20252;04/11/2026 10:28;04/11/2026 10:28
+535;57d862da-516f-42f4-8c3f-a71478288a4c;73;8.85;3.64;91.3;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;12/10/2026 11:47;12/10/2026 11:47
+536;2ada671c-cff0-4c37-ba51-31f709fc52f7;1008;38.48;2.23;67.3;Perhatian Khusus;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20261;01/10/2026 13:47;01/10/2026 13:47
+537;ba2cea42-9459-4238-8351-577742243ffa;1005;15.58;3.37;84.6;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;03/11/2026 10:57;03/11/2026 10:57
+538;475f8825-ecfc-4a8f-abc7-26060f31542c;40;8.13;3.63;93;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;24/10/2026 21:32;24/10/2026 21:32
+539;84045148-8167-457b-83c0-bbb8bbd868c1;40;4.25;3.68;99.5;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;01/11/2026 07:32;01/11/2026 07:32
+540;7883d97a-e670-480e-b7ff-81eeef607189;73;13.1;3.44;87.8;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;23/10/2026 20:07;23/10/2026 20:07
+541;3dfa1345-9789-440c-8b50-be014b662e90;74;22;3.02;80.5;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;03/11/2026 15:15;03/11/2026 15:15
+542;2c88b86d-40d5-4105-9fb7-c3ae1a159429;73;10.27;3.33;96.2;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;13/10/2026 20:40;13/10/2026 20:40
+543;540a5fbc-06a9-4b8d-b12c-597242d7f55a;73;25.38;2.67;82.5;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;04/11/2026 20:07;04/11/2026 20:07
+544;4e1b3a5f-fc7f-4438-a745-48403c739138;1008;21.65;3.46;70.2;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20261;28/10/2026 20:56;28/10/2026 20:56
+545;5b3d1a7e-d306-4b9c-9f42-c129ba69f30e;40;12.6;3.14;96.3;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;03/11/2026 16:16;03/11/2026 16:16
+546;fc26f5f0-8888-44d1-9194-e7954f647b13;73;30.6;2.8;68.8;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20261;28/10/2026 08:04;28/10/2026 08:04
+547;b1b724cc-0d9a-4163-b7ac-37fb7421bf5b;1005;33.28;2.91;60.7;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;03/11/2026 08:09;03/11/2026 08:09
+548;72403f8e-fa1d-4836-8542-06eb50f9d406;40;14.2;3.3;89.1;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;02/11/2026 13:10;02/11/2026 13:10
+549;8b3dfae5-886d-4bf5-8590-86db1be7f36b;73;24.7;2.78;81.1;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20252;01/11/2026 17:59;01/11/2026 17:59
+550;5569f636-876a-4830-8ca5-dc7e94a38f87;1008;47.7;2.16;50.6;Perhatian Khusus;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;01/11/2026 12:48;01/11/2026 12:48
+551;c1a926ab-d9d5-4a49-a7e7-66698404315a;1005;23.67;2.59;87.9;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;02/11/2026 15:27;02/11/2026 15:27
+552;96203a3b-a369-407e-b72b-1ab0b9b755a0;1008;36.98;3.03;50.3;Perhatian Khusus;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;01/11/2026 15:26;01/11/2026 15:26
+553;b0da1b1f-0985-47d1-ab07-920196ac2084;73;8.15;3.52;95.7;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;04/11/2026 08:44;04/11/2026 08:44
+554;45afe1ee-0d14-436b-9f8d-283058adaaf1;1008;10;3.48;93;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;14/10/2026 11:43;14/10/2026 11:43
+555;c055aee6-5cea-424c-89ca-7832bc21597c;1005;17.05;3.04;89.9;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;03/11/2026 19:55;03/11/2026 19:55
+556;29c2eb56-9c0e-4c8b-b91b-3658ac4bff36;1005;7.3;3.74;91.9;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;20/10/2026 19:20;20/10/2026 19:20
+557;05778d59-1eb6-4a3c-b1c7-82843a75a639;40;11.12;3.37;93.5;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;03/11/2026 20:53;03/11/2026 20:53
+558;1bb0a2d0-525b-47a5-a337-3434d8d61666;1008;7.3;4;85.4;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;11/10/2026 15:33;11/10/2026 15:33
+559;d852a893-692a-4815-ba93-ea9e5ec800ce;1005;14.62;3.29;88.5;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;01/11/2026 14:43;01/11/2026 14:43
+560;52ddb209-9841-4262-b645-de553ab2d693;73;18.27;3.17;84.2;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20252;02/11/2026 09:46;02/11/2026 09:46
+561;9ef752d0-76b7-41cb-9783-54cd9eeab0e9;40;12.23;3.25;94.3;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;03/10/2026 13:40;03/10/2026 13:40
+562;06f6e3a0-9f4e-437b-8ece-15aebff38f32;73;11.58;3.35;93.1;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;04/11/2026 19:49;04/11/2026 19:49
+563;0eef24e5-f17b-4abe-8f87-5e235a104d4d;40;7.1;3.54;97.3;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;16/10/2026 16:43;16/10/2026 16:43
+564;de25f851-7c51-4678-b918-f1f37e86769d;1005;10.85;3.62;87.8;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;03/11/2026 09:28;03/11/2026 09:28
+565;d197cdb4-b9b3-4efc-9021-fd137d8bf64b;1005;35.2;2.54;66.1;Perhatian Khusus;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20252;02/11/2026 07:09;02/11/2026 07:09
+566;486b35cc-3807-45da-8b93-9db7f2030e12;84;52.12;2.43;35;Perhatian Khusus;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;03/11/2026 12:25;03/11/2026 12:25
+567;b2da5b1c-210b-4078-8020-dbe20e7ef49d;1008;11.47;3.49;89.8;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;04/11/2026 08:12;04/11/2026 08:12
+568;ece6c05c-acc4-40da-984f-90e86b9054f6;73;6;3.52;100;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;17/10/2026 19:34;17/10/2026 19:34
+569;33414ec8-9453-4155-9498-1be22e881d72;73;36.67;2.83;55.9;Perhatian Khusus;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;01/11/2026 08:48;01/11/2026 08:48
+570;33b69113-c1b8-4b5d-8200-c7c62c91405f;40;20.33;2.87;87.6;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;01/11/2026 19:57;01/11/2026 19:57
+571;b79d81e7-94c0-44a1-b7fe-0538655e4104;1008;18.83;3.17;83.1;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;03/11/2026 19:42;03/11/2026 19:42
+572;03e166ca-310b-4b9d-a043-f69c1432e99e;73;10.92;3.39;93.4;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;04/11/2026 18:40;04/11/2026 18:40
+573;5f7b4d27-0035-4be3-bf29-fe7caaeb48e4;73;11.58;3.41;91.6;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;26/10/2026 09:49;26/10/2026 09:49
+574;40a965bf-858d-45a6-aac6-0859a126dd06;1005;14.7;3.42;85.1;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;04/11/2026 19:46;04/11/2026 19:46
+575;a3d6257a-4a8a-46f4-9c85-a52e159686b1;73;12;3.24;95;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20261;18/10/2026 13:26;18/10/2026 13:26
+576;520fb643-4dbf-4dac-80c8-65370d98e6e0;1008;12.17;3.27;93.9;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;04/10/2026 13:09;04/10/2026 13:09
+577;b262a1db-4229-47ee-8d19-dd46813824c5;73;10.8;3.3;95.9;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;04/11/2026 15:54;04/11/2026 15:54
+578;7defc4ba-11bb-48be-979f-16a278a151d9;40;34.28;2.53;68.2;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20261;06/10/2026 17:43;06/10/2026 17:43
+579;16b8887c-8736-4049-99d6-5d3390a92905;1008;13;3.86;77.5;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;04/10/2026 19:03;04/10/2026 19:03
+580;ffbbbb7d-a8e8-46c0-8cb1-d9322a562ca6;1008;21.15;3.24;76.7;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;09/10/2026 09:44;09/10/2026 09:44
+581;1a078c62-a91b-4d6a-b397-43fef7eead97;1005;12.08;3.13;97.6;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;11/10/2026 15:21;11/10/2026 15:21
+582;e4b887ba-97eb-4345-95d8-5c308cb4b66f;1008;13.42;3.55;84.4;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;02/11/2026 10:18;02/11/2026 10:18
+583;665e0ac0-e6d2-478b-92a6-1fdbfc26c235;1005;7.95;4;84.1;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;11/10/2026 21:17;11/10/2026 21:17
+584;d01e7eb5-8472-4a3c-a78b-70648d8544b7;40;16.2;3.32;84.6;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;02/11/2026 12:51;02/11/2026 12:51
+585;663730ae-94c0-4e39-919b-70a05ec45269;74;26.38;3.03;71.5;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20261;21/10/2026 10:59;21/10/2026 10:59
+586;f92519bd-a6ed-4a49-9af2-a1bb1a414601;1008;15.38;3.05;93;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;04/11/2026 08:41;04/11/2026 08:41
+587;8b35cf94-8fca-4deb-9f66-3a388c816244;28;15.85;3.36;84.3;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;02/11/2026 12:29;02/11/2026 12:29
+588;27b5af44-d29b-41d8-9536-f9243eac84e2;1008;9.75;3.6;90.5;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;03/11/2026 19:55;03/11/2026 19:55
+589;7e9d8970-703e-41b3-b241-ca48fc25b871;1008;7.83;3.51;96.6;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;27/10/2026 18:12;27/10/2026 18:12
+590;c1b8b1dc-1ca5-4b0a-85b2-9c3741a95d0f;1008;6.75;3.76;92.5;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;04/11/2026 07:51;04/11/2026 07:51
+591;48e06e16-c62f-4862-b3c7-284c96e738a2;1005;14.83;3.25;89.1;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;04/11/2026 16:38;04/11/2026 16:38
+592;c942efbb-4949-4f56-b421-8149ddebf67c;74;10.25;3.58;90;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;21/10/2026 09:03;21/10/2026 09:03
+593;0a78f549-8164-4b47-86df-e9ffad672c91;1008;10.32;3.47;92.6;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;11/10/2026 15:55;11/10/2026 15:55
+594;c6083116-caf0-4dec-b6b2-11cc5f20d6a8;73;6.15;3.68;95.7;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;01/10/2026 08:23;01/10/2026 08:23
+595;263732b4-d523-43b5-a09c-e401bd31b92f;73;5.15;3.96;90.7;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;02/11/2026 08:01;02/11/2026 08:01
+596;5050e1d7-73dd-4d82-9f0f-6247189ef4b7;73;12.63;3.11;97;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;01/11/2026 07:41;01/11/2026 07:41
+597;277d9ada-4998-4f9f-81bc-284c159d176c;81;9.27;3.75;87.7;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;08/10/2026 12:53;08/10/2026 12:53
+598;1d6f64e5-28f3-462d-9557-29ba7af0ad08;28;15.55;3.36;84.9;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;03/11/2026 08:25;03/11/2026 08:25
+599;f630c221-abe3-4a9b-b161-bcf1baf4d6b1;1005;19.92;3.25;78.9;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;10/10/2026 14:50;10/10/2026 14:50
+600;7da5d9fa-021b-4c71-a199-1ed76f2f0b96;73;22.55;2.98;80.4;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;02/11/2026 12:52;02/11/2026 12:52
+601;00cc09cf-f4fa-4c5f-9526-4f6a84d98462;1005;32.12;2.53;72.5;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20261;14/10/2026 09:43;14/10/2026 09:43
+602;b7f95329-0802-4f18-aed3-2298f3ff4e31;73;27.17;2.95;71.9;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20261;04/10/2026 08:15;04/10/2026 08:15
+603;6b919f89-af87-43ec-bec4-69bc7a9a8b29;73;5.75;3.76;94.5;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;01/11/2026 19:04;01/11/2026 19:04
+604;7502d41c-f22b-4d56-bca4-cf1556dfea4e;1005;10.6;3.9;81.3;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;10/10/2026 19:06;10/10/2026 19:06
+605;6c752f3b-1a8d-47ef-a228-9d0132bb0540;1008;4.38;3.65;100;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;21/10/2026 09:43;21/10/2026 09:43
+606;79193aab-2bb9-4448-9ce8-0c54b447952d;73;10.6;3.22;98.3;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20261;01/10/2026 14:27;01/10/2026 14:27
+607;4b47a285-ff3a-4fcf-b2df-acbc278563a8;73;8.52;3.39;98.2;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;11/10/2026 14:24;11/10/2026 14:24
+608;cf3705aa-7511-4799-be98-affdd34a0a30;1008;10.23;3.71;86.8;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;15/10/2026 18:46;15/10/2026 18:46
+609;66614652-281b-4eea-b0ae-63f1ed84ba97;73;7.75;3.7;92;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;03/11/2026 11:01;03/11/2026 11:01
+610;7efad1ea-3d50-4120-8e98-4bc2382788f5;1005;7.48;3.45;98.8;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;18/10/2026 08:30;18/10/2026 08:30
+611;80585a0c-c5d3-48e3-a39c-288420f70936;84;9.98;3.67;88.3;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;29/10/2026 09:12;29/10/2026 09:12
+612;c67d8354-9ad1-4422-8f88-cc6bebfbe426;28;12.03;3.51;88.2;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;02/11/2026 18:24;02/11/2026 18:24
+613;35910664-8e19-479b-bca5-9a301bdc6d64;1008;14.1;3.5;84.3;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;04/11/2026 12:39;04/11/2026 12:39
+614;98d668c4-a645-4433-b5ae-f99d5c9431a7;1008;13.35;3.6;83.3;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;03/11/2026 09:04;03/11/2026 09:04
+615;5a3d529a-a695-46e0-a7e6-b382e5685d79;1008;22.83;2.85;83.1;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;03/11/2026 10:20;03/11/2026 10:20
+616;8e3bd7e5-26cd-4c7a-aa62-cc5e18405722;1005;4.85;3.66;98.8;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;16/10/2026 09:18;16/10/2026 09:18
+617;e6059f3b-68ea-419d-9b85-1c72961c9f2e;1008;32.22;2.29;78.3;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;02/11/2026 21:31;02/11/2026 21:31
+618;bd19b5d3-1b68-46bd-ba9a-c55bc9c0265b;40;3.4;4;93.2;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;27/10/2026 17:55;27/10/2026 17:55
+619;7d85248d-b1bc-48dd-a959-0614d1514677;40;3.27;3.79;98.7;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;01/11/2026 10:52;01/11/2026 10:52
+620;9e45d992-fbe8-41ef-a0c3-2f9535cf9e57;28;3.8;3.92;94.4;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;27/10/2026 20:48;27/10/2026 20:48
+621;063d1c6c-d259-4254-b2d2-0bb66d12e54b;73;11.42;3.63;86.4;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;01/11/2026 17:02;01/11/2026 17:02
+622;0dea2d32-7cce-4193-b361-90400d77d207;28;10;3.5;92.5;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;04/11/2026 19:45;04/11/2026 19:45
+623;35a096a6-8954-48f4-8ca4-620fe33a31e9;1008;18.17;3.05;87.4;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;01/11/2026 09:30;01/11/2026 09:30
+624;2dc4c42d-b949-4423-8fd9-53ed0caeca3b;1008;7.42;3.61;94.9;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;30/10/2026 10:25;30/10/2026 10:25
+625;d9894322-f8bd-4cef-bfbc-f3bc190e55c6;1008;14.23;3.31;88.8;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;03/11/2026 19:02;03/11/2026 19:02
+626;c8a7e1d7-bff6-433e-9c2e-f1eb9a72092c;73;10.08;3.69;87.6;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;17/10/2026 12:00;17/10/2026 12:00
+627;be166f33-c5a9-4d4e-ba87-8f85aff39288;40;36.22;2.45;66.3;Perhatian Khusus;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20261;19/10/2026 17:50;19/10/2026 17:50
+628;04e5c78f-62ab-4dd1-bb49-ad9e6064dab3;1005;39.6;2.22;65.3;Perhatian Khusus;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;13/10/2026 20:19;13/10/2026 20:19
+629;cd1929c9-c2db-4887-9f75-18d1124f684c;1008;6.2;3.8;92.6;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;03/11/2026 16:44;03/11/2026 16:44
+630;09d71464-fe58-467e-8748-d3baa8203710;1008;13.8;3.62;81.9;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;03/11/2026 08:05;03/11/2026 08:05
+631;e62215dd-558a-428d-a4e2-885754ec07ce;40;26.35;3.12;69.3;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;21/10/2026 14:02;21/10/2026 14:02
+632;2bcc3938-f493-4b40-96cb-96a64e38cd19;28;22.22;3.03;79.8;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20252;01/11/2026 12:43;01/11/2026 12:43
+633;7c3fef85-fbd3-40a3-914e-d5fb4bb6bf0d;1005;10.38;3.63;88.5;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;05/10/2026 15:06;05/10/2026 15:06
+634;d4679d12-5570-4395-bb6f-04d71874773a;40;14.37;3.37;87;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;03/11/2026 12:17;03/11/2026 12:17
+635;ab7d32bd-b9fd-4f8a-8081-0d4ecf81b27c;74;27.98;2.81;73.8;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;04/11/2026 12:19;04/11/2026 12:19
+636;5b230e15-65d4-4566-9a95-be7389890bc1;73;7.83;3.59;94.6;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;21/10/2026 12:06;21/10/2026 12:06
+637;64a7f7c3-5ca5-4625-bf31-226e190d7dd0;81;13.25;3.12;95.5;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;17/10/2026 13:03;17/10/2026 13:03
+638;40d8c4b4-a87f-4ed7-b1c1-2ee3ca8fc457;73;13.55;3.5;85.4;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;01/10/2026 12:32;01/10/2026 12:32
+639;59e65189-01f8-431c-8d39-74eea89a6bcf;73;16.87;3.47;79.5;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;01/11/2026 07:05;01/11/2026 07:05
+640;35e405d6-67e8-4a76-a530-d386614ce359;40;10.05;3.58;90.4;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;26/10/2026 16:02;26/10/2026 16:02
+641;4f772506-5b8f-4416-ac58-2cd5ba2b467b;1008;8.3;3.52;95.4;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;01/11/2026 11:05;01/11/2026 11:05
+642;271d833c-20b9-40c5-be32-a88602118dfb;28;12.5;3.68;83;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;15/10/2026 16:55;15/10/2026 16:55
+643;1f20f8b2-5718-439f-9bc0-adecd79498ba;40;12.58;3.63;84.1;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;03/11/2026 07:22;03/11/2026 07:22
+644;05f538b9-3292-48d6-ac06-07719ca53da1;84;23.67;2.95;78.9;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20261;19/10/2026 18:27;19/10/2026 18:27
+645;768c3261-b82d-4780-857c-26047798980b;73;16.6;3.26;85.3;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;04/11/2026 16:46;04/11/2026 16:46
+646;d8b9497c-4ee9-45b1-bcbb-e714c6b723b3;1005;5.33;3.85;93.1;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;01/11/2026 10:01;01/11/2026 10:01
+647;a966ce87-aad6-4a8d-b569-4b942de1c1b9;1005;13.62;3.27;91;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;02/11/2026 21:07;02/11/2026 21:07
+648;e19029f6-7538-42f8-ab84-7c4d17b7acc4;74;11.05;3.24;96.9;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;02/11/2026 07:46;02/11/2026 07:46
+649;a4e4d419-c891-4706-8f6a-4b09373cec6c;73;4.25;3.66;100;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;14/10/2026 07:50;14/10/2026 07:50
+650;3f7bd1cb-ae86-470e-976e-a9ea2c3fc438;1005;13.63;3.07;96;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;01/11/2026 21:38;01/11/2026 21:38
+651;f6f2b110-a2ec-4223-9e32-109afcd282c8;1005;4.13;3.67;100;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;03/11/2026 11:02;03/11/2026 11:02
+652;1d788a24-aa96-4123-acc4-998eec9d66be;1005;11.7;3.66;85.1;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;02/11/2026 08:49;02/11/2026 08:49
+653;6e6afcca-ae75-4faf-a400-75b55d26bbd6;40;6.88;3.57;97;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;01/11/2026 11:25;01/11/2026 11:25
+654;a32e0e6f-db05-40fa-8e90-3622740cfe21;1008;18.77;3.05;86.2;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;26/10/2026 17:08;26/10/2026 17:08
+655;00b4018b-12e9-4259-a3b4-2a2f2295b02e;40;7.05;3.62;95.4;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;02/11/2026 15:17;02/11/2026 15:17
+656;19184c60-78d4-44f2-b814-3f71f795c8dc;1005;8.88;3.29;100;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;20/10/2026 07:02;20/10/2026 07:02
+657;7072edd6-f68a-4190-9dd3-7b3e1e70bc43;73;27.38;2.53;82;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;02/11/2026 15:36;02/11/2026 15:36
+658;13747280-031b-49b7-a0fb-870197489f64;1008;35.78;2.63;62.7;Perhatian Khusus;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;02/11/2026 11:01;02/11/2026 11:01
+659;408df7ba-726a-45dc-bd31-e82b87a1c74c;1005;16.62;3.31;84;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;12/10/2026 18:31;12/10/2026 18:31
+660;c964d980-a3c4-4960-980f-c30adbf2733e;73;30.35;2.04;88.3;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;01/11/2026 21:01;01/11/2026 21:01
+661;1e2caf71-9cde-4365-9658-6d4d01d1b7a3;28;16.12;3.19;88;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;02/11/2026 09:41;02/11/2026 09:41
+662;f1b0c3f1-e51d-4194-9bc1-8071606bca52;84;13.33;3.51;85.6;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;15/10/2026 08:17;15/10/2026 08:17
+663;ee0bd96b-609b-40a8-8c16-3d183144c043;1008;7.55;3.54;96.4;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;03/11/2026 11:37;03/11/2026 11:37
+664;3c39ae66-4177-46b9-b434-c1c83765156d;1005;43.55;1.88;65.9;Perhatian Khusus;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;04/11/2026 09:43;04/11/2026 09:43
+665;505f5502-c744-49f2-8146-ce7195f6db4f;1005;11.48;3.45;90.8;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;10/10/2026 21:52;10/10/2026 21:52
+666;a1ee4068-35db-40f8-a358-c459b2afbafd;1005;11.05;3.9;80.4;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;03/11/2026 17:02;03/11/2026 17:02
+667;2328a8bd-1fbb-4310-bd87-e1f82611c05b;1008;19.75;2.42;100;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;01/11/2026 15:50;01/11/2026 15:50
+668;bc076967-3dcb-4397-8e32-9dc67eb6e07b;1005;37.35;2.56;61.3;Perhatian Khusus;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20252;01/11/2026 09:18;01/11/2026 09:18
+669;b3779ff1-63e8-4221-81cf-923a27c45716;73;12.03;3.51;88.2;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;09/10/2026 21:01;09/10/2026 21:01
+670;bd1ff041-c9d6-4ab7-b9b0-07ef0aced387;73;27.22;2.15;91.8;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20261;02/10/2026 13:21;02/10/2026 13:21
+671;614cb624-c5f7-4cf1-9e5b-1448b6bb0a68;1008;7.62;3.39;100;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;19/10/2026 07:48;19/10/2026 07:48
+672;4685200d-5990-4c3d-b3eb-6c2b0e36bfa7;1008;3.5;3.72;100;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;23/10/2026 07:44;23/10/2026 07:44
+673;5c0fc5ae-539e-4bf8-9069-3efe4a3d42d6;1005;23;2.48;92;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20261;09/10/2026 15:23;09/10/2026 15:23
+674;8181c33b-9fe0-4656-a82d-6745c07c3423;74;14.62;3.23;90;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;03/11/2026 21:08;03/11/2026 21:08
+675;6caf39eb-944a-4aca-aed3-9e5071ee4346;73;4;3.68;100;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;01/11/2026 20:11;01/11/2026 20:11
+676;6c5bec1a-6aa5-4968-b44c-9710eff9c4f9;1008;20.5;3.14;80.5;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;02/11/2026 19:15;02/11/2026 19:15
+677;0f042a5c-424d-48a5-ba5f-a1564dc0e0e0;28;4.05;3.94;93.4;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;02/11/2026 13:18;02/11/2026 13:18
+678;79fe5044-b177-4048-bcb0-d01f41d2282a;1005;22.65;3.3;72.2;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;02/11/2026 20:33;02/11/2026 20:33
+679;33cde6aa-bd72-4229-a2bf-56839ab0944f;1005;10.85;3.44;92.3;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;06/10/2026 17:16;06/10/2026 17:16
+680;fe7d4cfa-e706-4e1e-b971-f4dabd8e5cf8;73;11.05;3.78;83.4;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;16/10/2026 16:13;16/10/2026 16:13
+681;211c5a47-4470-456a-b1cc-773a4d7dca8b;1008;5.13;3.59;100;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;04/11/2026 07:44;04/11/2026 07:44
+682;a8944dfc-a0dd-467f-b4da-b7c8c765ecbb;1005;38.92;2.29;64.9;Perhatian Khusus;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;23/10/2026 21:57;23/10/2026 21:57
+683;795aba98-ed14-4297-83bc-734239464353;1008;4.33;3.91;93.6;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;03/11/2026 17:59;03/11/2026 17:59
+684;1c478bc8-79e4-4c6a-ad11-f7c149e7aec4;1005;8.37;3.39;98.5;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;04/11/2026 10:41;04/11/2026 10:41
+685;cd06e76f-5eb3-4bad-8f07-c295eba1047d;1005;25.17;2.73;81.4;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;05/10/2026 17:09;05/10/2026 17:09
+686;62f70a26-a9ab-48fa-b8c2-e55392bfc63a;1008;5.8;4;88.4;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;01/10/2026 07:32;01/10/2026 07:32
+687;d04d9761-d17a-4d8f-87b4-dad012874572;1008;32.12;2.29;78.5;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;04/11/2026 21:11;04/11/2026 21:11
+688;502c164a-471e-4d29-811b-380e391f7b36;1008;14.67;3.45;84.4;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;01/11/2026 20:33;01/11/2026 20:33
+689;0416e9f4-626b-4721-8dd4-e94b6970d7d4;73;12;3.56;87;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;16/10/2026 21:56;16/10/2026 21:56
+690;f15d13c2-424b-4dc3-8fcf-42957a221d3b;40;36.83;2.13;73.1;Perhatian Khusus;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;02/11/2026 08:51;02/11/2026 08:51
+691;cbf2eb15-77db-4eb8-86ed-4f5cc9afb38c;73;9;3.64;91;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;04/11/2026 15:09;04/11/2026 15:09
+692;2c8e6a37-bf06-498b-bf21-3e646605737f;28;13.55;3.44;86.9;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;22/10/2026 17:35;22/10/2026 17:35
+693;57bcfb1c-4c8d-4b52-9882-6ffe5735f322;1008;6;3.52;100;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;04/11/2026 20:14;04/11/2026 20:14
+694;9feb1865-fbd3-4f85-a4ea-324f0b8ecbfc;73;47.78;2.13;51.2;Perhatian Khusus;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20261;06/10/2026 10:26;06/10/2026 10:26
+695;2fde9410-4ba2-40a5-9b29-482743c368eb;1008;16.45;3.18;87.6;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20252;01/11/2026 15:27;01/11/2026 15:27
+696;93e385a0-7da6-4630-92ca-b657030bfc03;1005;14.08;3.59;82.1;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;05/10/2026 13:10;05/10/2026 13:10
+697;bd02afeb-6180-42a2-820f-227363cd8a16;1005;8.4;3.48;96.2;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;04/11/2026 14:20;04/11/2026 14:20
+698;f70a7a59-6873-45e7-a82e-d7938486023a;1008;5.2;3.86;93.1;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;03/11/2026 13:41;03/11/2026 13:41
+699;54b3646b-ea07-49ea-8ddb-c20dff8d7510;74;25.22;2.29;92.3;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;04/11/2026 15:30;04/11/2026 15:30
+700;51d6aeea-76f1-4e0b-b6d5-e8b2f40c1d0e;40;17.45;3.06;88.6;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;17/10/2026 13:42;17/10/2026 13:42
+701;9b965140-7344-4d57-a02e-8642b1749394;85;14.95;3.36;86.1;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;18/10/2026 19:46;18/10/2026 19:46
+702;5ed9c000-e535-4d39-9ece-6f4130e1a64f;73;20.9;3.16;79.2;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;01/10/2026 09:44;01/10/2026 09:44
+703;fcdd93e9-7d37-4226-ba60-39b330842e09;1008;47.78;1.87;57.7;Perhatian Khusus;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;13/10/2026 14:37;13/10/2026 14:37
+704;c9fc90fd-1081-4962-82ef-50657b702a3c;1008;3.42;3.91;95.4;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;01/11/2026 09:48;01/11/2026 09:48
+705;bb14fe88-4d48-4fa8-8784-319585848a54;1005;4.63;3.63;100;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;01/11/2026 21:46;01/11/2026 21:46
+706;4c03c0d8-f6af-4539-9b28-ecb883fb49b7;73;19.8;3.06;83.9;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20261;08/10/2026 14:31;08/10/2026 14:31
+707;8eeeb4ea-8388-4455-b7bd-92937f07e1e9;1005;11.52;3.33;93.7;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;02/11/2026 11:19;02/11/2026 11:19
+708;c6dea26f-fa56-40e0-b3c4-a5818e2b8f4b;28;8.08;3.61;93.6;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;29/10/2026 11:35;29/10/2026 11:35
+709;b3dd03cd-b803-47e0-bb09-3229fe31973b;1005;27.42;2.63;79.4;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;04/11/2026 16:32;04/11/2026 16:32
+710;e8eccd0b-e653-4713-a2f4-9f2c49970aad;28;11.85;3.32;93.3;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;02/11/2026 07:24;02/11/2026 07:24
+711;ffc9b256-97cb-4626-ab57-d4c1202d4bf9;1005;7.73;3.59;94.8;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;04/11/2026 18:38;04/11/2026 18:38
+712;5f5248d2-0e1b-4d85-ab49-71cf55b401a5;1005;6.52;3.75;93.2;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;19/10/2026 20:36;19/10/2026 20:36
+713;d5bae098-cb84-4949-80c7-8178b92085b9;73;32.27;2.43;74.7;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;04/11/2026 19:34;04/11/2026 19:34
+714;95634823-3b07-492b-97aa-0ce5ed6287d0;28;14.15;3.14;93.2;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;27/10/2026 17:29;27/10/2026 17:29
+715;4846ea21-566c-4b67-8e87-d1957b58e156;1008;22.3;3.16;76.4;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;01/11/2026 10:44;01/11/2026 10:44
+716;ddd17f6f-1242-467d-93a2-c1f75dcf5344;1008;8.02;3.73;90.7;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;19/10/2026 19:51;19/10/2026 19:51
+717;a0b07487-4e16-4147-8974-3276022b725a;28;25.85;2.64;82.3;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;04/11/2026 08:38;04/11/2026 08:38
+718;d32d9646-0c54-4159-8b94-d34404901c78;73;11.25;3.54;89;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;02/11/2026 12:41;02/11/2026 12:41
+719;68aa7e9f-e79a-4375-98d7-fd944466a7e8;1008;13.37;3.45;87;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;03/11/2026 12:33;03/11/2026 12:33
+720;14586d15-c636-416c-8f28-581dfd247b1a;81;29.32;3.39;56.6;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;02/11/2026 14:12;02/11/2026 14:12
+721;9e04a7ef-00d7-42c1-87b5-b7a2e6522ac5;40;16.77;2.89;94.2;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;02/11/2026 13:11;02/11/2026 13:11
+722;6ba0031a-92dc-4c03-b0c7-e0204b0709ee;1008;44.72;2.15;56.8;Perhatian Khusus;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;04/11/2026 14:36;04/11/2026 14:36
+723;857cefb3-f9e0-4bda-8cf9-1e66b2b2a643;74;25.92;2.81;77.9;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20261;13/10/2026 13:49;13/10/2026 13:49
+724;31afc4e6-ccba-4aa1-bee2-d4e5403b4626;85;9.52;3.75;87.2;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;02/11/2026 10:14;02/11/2026 10:14
+725;838db250-bc4e-47f0-9f11-f67de8442f12;1008;25.42;3.13;70.9;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;24/10/2026 19:38;24/10/2026 19:38
+726;774dd3d0-237b-4b1d-a315-8fc5c961a30a;1008;35.23;2.51;66.8;Perhatian Khusus;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20252;02/11/2026 07:01;02/11/2026 07:01
+727;051e0ffb-c726-4613-83e7-3cd361bf277c;1008;8.7;3.66;91.1;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;23/10/2026 16:28;23/10/2026 16:28
+728;206aae5e-4e8d-4f49-a8f1-73e4e213d75c;1008;10.28;3.55;90.7;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;30/10/2026 20:18;30/10/2026 20:18
+729;ace6163a-865b-499a-8817-0b291e09cce8;1008;13.83;3.09;95.1;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;03/11/2026 11:10;03/11/2026 11:10
+730;42e87ca1-e983-4529-b15a-70d0cc4af9b1;73;6;3.52;100;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;03/11/2026 19:05;03/11/2026 19:05
+731;14b103b3-17fc-40ab-ad75-27fa98621f97;1008;12.7;3.58;85.1;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;03/11/2026 09:10;03/11/2026 09:10
+732;f3e47296-2de0-4979-80b3-992f775d764b;1008;10.27;3.71;86.7;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;04/11/2026 12:41;04/11/2026 12:41
+733;f7b21c53-a3ee-41ce-a467-aaaeac5bbe60;1005;7.23;3.75;91.8;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;15/10/2026 07:16;15/10/2026 07:16
+734;ad57f434-ddbb-4f88-8ff8-f79259bc5f49;1008;33;2.04;83;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;04/11/2026 20:35;04/11/2026 20:35
+735;8316cdca-a85c-434a-8cd4-c64f956ba88b;73;7.9;3.52;96.2;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;27/10/2026 07:35;27/10/2026 07:35
+736;f0acb81b-7067-44a9-a14c-4b5f465f60c6;73;16.15;2.9;95.2;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;17/10/2026 19:38;17/10/2026 19:38
+737;41dfe178-a892-42ac-a3b7-b57a7c4630ea;81;26.2;2.6;82.6;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20252;04/11/2026 09:02;04/11/2026 09:02
+738;f17642c4-45e0-45a8-bf2f-df2e1b85ca94;73;12.8;3.4;89.4;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;20/10/2026 16:49;20/10/2026 16:49
+739;21943a7c-5d3c-4858-ac34-cb5cf037d33d;84;3.63;3.71;100;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;03/11/2026 10:12;03/11/2026 10:12
+740;8efa66c4-5967-4ae7-a694-87e2b4859d3e;1005;24.88;2.95;76.5;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;01/11/2026 13:57;01/11/2026 13:57
+741;00e1d61e-d3c7-4aa2-b6e7-4cb05fa35214;1005;10.02;3.31;97.2;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;18/10/2026 16:14;18/10/2026 16:14
+742;2347b62e-9031-4b42-8a8d-7662d35faa4a;1005;57.92;1.87;37.4;Perhatian Khusus;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20261;21/10/2026 12:03;21/10/2026 12:03
+743;f24e1bc3-166f-4084-b208-52115137ec62;1008;30.9;2.88;66.2;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20261;16/10/2026 15:36;16/10/2026 15:36
+744;e61a9dc3-09a3-4e7f-8fe7-576eadb25897;1008;3.88;3.69;100;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;03/11/2026 12:21;03/11/2026 12:21
+745;06a617a4-38c1-4a0b-8a8d-119d11f30fe8;40;24.5;3.24;70;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;02/11/2026 10:03;02/11/2026 10:03
+746;b65438e0-d519-44e1-8d6f-002aef65a968;1005;30.85;2.52;75.3;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;03/11/2026 12:47;03/11/2026 12:47
+747;4f43effc-1929-4a23-a9df-fd033a7db7a0;74;19.02;3.21;81.7;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20252;01/11/2026 11:26;01/11/2026 11:26
+748;5f7724a8-9d08-470f-8925-c1b43b777e79;74;8.4;3.62;92.7;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;22/10/2026 10:39;22/10/2026 10:39
+749;0983fa95-dedf-4088-a3ca-a0f62c503482;40;12.98;3.29;91.8;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;25/10/2026 19:16;25/10/2026 19:16
+750;f36c3b75-e305-4645-8cfa-e4990cb249cb;85;11.13;3.57;88.5;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;02/11/2026 10:36;02/11/2026 10:36
+751;4b9cc633-6426-4a2c-bb21-f4f68e8e1931;1008;16.45;3.38;82.6;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;04/11/2026 13:58;04/11/2026 13:58
+752;5f7cc9ce-eedf-42af-907c-0d9a696096af;40;17.73;2.89;92.3;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;03/11/2026 12:06;03/11/2026 12:06
+753;b28f3e16-aa0a-4a24-9a73-67246dba0c78;74;5.35;4;89.3;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;20/10/2026 16:17;20/10/2026 16:17
+754;efab6f0a-3c2a-41ca-84d0-813f45eff340;73;16.15;3.24;86.7;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;08/10/2026 12:52;08/10/2026 12:52
+755;6e1afec0-c652-4086-b4b6-a3697d8f4cd0;40;31.82;2.45;75.1;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;03/11/2026 09:58;03/11/2026 09:58
+756;417d084e-ebf1-4d21-8f53-83863478a933;73;9.87;3.49;93;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;03/11/2026 14:39;03/11/2026 14:39
+757;ad5349ac-eb5a-4a25-a3ce-6cb0968ac454;1008;8.73;3.75;88.8;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;06/10/2026 14:21;06/10/2026 14:21
+758;f25e0740-6480-4ad3-bb8e-829c47e74f57;1008;38.1;1.72;80.8;Perhatian Khusus;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;02/11/2026 07:01;02/11/2026 07:01
+759;6ddc907b-c4b3-4444-8690-1fbf3ba54f39;1005;16.3;3.36;83.4;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;02/11/2026 21:42;02/11/2026 21:42
+760;6024b965-87f3-42e7-979f-1438e798adb6;1008;15.45;3.34;85.6;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;18/10/2026 18:16;18/10/2026 18:16
+761;40614d18-9b41-4528-ab5c-c33c54a66d4c;73;15.7;3.16;89.6;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;24/10/2026 08:58;24/10/2026 08:58
+762;6fca6ea8-e713-4fed-bcf4-59711b830d34;73;14.35;3.6;81.3;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20252;02/11/2026 12:04;02/11/2026 12:04
+763;166970e7-1d34-4846-8ca4-4697552b530a;73;20.78;2.69;91.2;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;11/10/2026 17:36;11/10/2026 17:36
+764;55351842-fac3-4757-9c7b-d62d98ef0f97;40;15.3;3.34;85.9;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;04/11/2026 20:19;04/11/2026 20:19
+765;f3af0bb8-70be-4f62-9007-fd1bb524361e;1005;12.25;3.28;93.5;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;04/11/2026 11:07;04/11/2026 11:07
+766;32be9e19-ff64-4cec-b68e-6754a1fb30a2;73;7.88;3.67;92.5;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;18/10/2026 21:56;18/10/2026 21:56
+767;d8e34a75-2e89-45d7-b6c5-11add9d08b6c;40;34.38;2.91;58.5;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20252;01/11/2026 15:20;01/11/2026 15:20
+768;c3c1f936-4515-4969-bc81-ef58067fde60;1008;4.35;3.68;99.3;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;04/11/2026 17:18;04/11/2026 17:18
+769;980aa552-6d9f-4144-9a2c-c8f770abbffd;40;12.05;3.14;97.4;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;11/10/2026 11:10;11/10/2026 11:10
+770;d9007379-d4ac-4bbc-aeda-0a6ec60ca5e8;73;14.33;3.23;90.6;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;01/11/2026 17:36;01/11/2026 17:36
+771;5e5395de-6fae-4b4d-8071-d10aa07bb597;1008;8.58;3.73;89.6;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;01/11/2026 08:39;01/11/2026 08:39
+772;c87af659-e8cc-4b7f-b713-5d1e9b141b01;85;16.75;3.24;85.5;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;03/11/2026 21:00;03/11/2026 21:00
+773;241e84f4-0e8e-4564-8b2a-ccbf93e51c9f;1008;29.52;2.43;80.2;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;03/11/2026 10:32;03/11/2026 10:32
+774;f5fb5bef-e593-4f08-9165-16ea8099885f;73;7.98;3.93;85.8;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;04/11/2026 13:24;04/11/2026 13:24
+775;75853cb0-4b3d-406a-8289-94cd02297cf8;73;6.3;3.78;92.9;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;05/10/2026 10:38;05/10/2026 10:38
+776;851739f7-df89-41c1-ab7d-73d981dacb13;1005;7.75;3.38;100;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;30/10/2026 17:05;30/10/2026 17:05
+777;6466ced6-ae0e-4471-974b-d0ccf3029028;40;8.9;3.64;91.2;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;26/10/2026 08:16;26/10/2026 08:16
+778;ea91a0a0-210f-44f4-91ca-b9f6087c8157;73;25.3;2.86;77.9;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;04/10/2026 17:49;04/10/2026 17:49
+779;e29ec17e-95cd-4f75-8d35-93879099099b;73;8.7;3.44;96.6;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;02/11/2026 09:55;02/11/2026 09:55
+780;c4374c31-27d5-4b7a-9597-0b6861d8ae92;1008;9.87;3.95;81.5;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;01/10/2026 19:56;01/10/2026 19:56
+781;3280c05b-ddda-44c1-a57c-5f98bfb63cbb;1005;31.17;2.77;68.4;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;03/11/2026 16:46;03/11/2026 16:46
+782;22a882af-0f6c-4b4a-b271-b1a8ade80e12;1005;9.85;3.46;93.8;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;01/11/2026 07:14;01/11/2026 07:14
+783;bb4b7377-c9b9-4a1e-b408-6783f9ffb725;40;5.92;3.59;98.4;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;06/10/2026 07:09;06/10/2026 07:09
+784;79cc3435-a934-4e5d-90e1-a30d864a02df;1008;11.45;3.64;86.1;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20261;17/10/2026 16:45;17/10/2026 16:45
+785;5f5b6165-b729-4df4-ae5f-045a5c0d5de0;1008;28.75;2.98;68;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;02/11/2026 13:26;02/11/2026 13:26
+786;787b1fb0-2ed6-471b-9850-2447ef02be5d;1005;33.78;2.31;74.7;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20261;23/10/2026 09:07;23/10/2026 09:07
+787;d4a17724-0bf3-474d-b5bf-b81d6840e838;73;8.95;3.62;91.6;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;01/11/2026 15:48;01/11/2026 15:48
+788;5c07474c-acba-438b-bffd-3d2573aaaf49;1008;14.82;3.47;83.6;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;12/10/2026 15:02;12/10/2026 15:02
+789;e3e49d4d-57d8-4991-a18c-1d144e66efc8;1008;14.3;3.64;80.4;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;09/10/2026 07:26;09/10/2026 07:26
+790;2e7e709b-bb88-492b-b9ff-750a0ec0708a;1005;16.45;3.34;83.6;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;18/10/2026 21:50;18/10/2026 21:50
+791;0caedf57-ab17-4880-a2b1-ca5d310e9785;73;13.7;3.46;86.1;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;04/11/2026 17:35;04/11/2026 17:35
+792;a96856e6-26ab-4e56-85f5-a6d43822105e;1008;14.4;3.34;87.7;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;01/11/2026 07:47;01/11/2026 07:47
+793;d29cd8f2-5533-40fe-a883-e80b07f6b3f1;73;19.98;2.77;90.8;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;01/11/2026 16:54;01/11/2026 16:54
+794;1b952c6f-c53b-4ef7-b580-a4a388499806;73;15.4;3.24;88.2;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;17/10/2026 15:55;17/10/2026 15:55
+795;d05fa182-39c4-4519-b996-411522e69650;1005;28.7;2.9;70.1;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;04/11/2026 21:29;04/11/2026 21:29
+796;d0aa34c4-e558-42f7-842c-4e20c6871a20;73;13.42;3.55;84.4;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;25/10/2026 16:34;25/10/2026 16:34
+797;a2aacbb5-8bc7-4950-9844-e9ed22055a5c;73;15.1;3.46;83.3;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;01/11/2026 09:29;01/11/2026 09:29
+798;3b531d38-c844-4700-b51b-909c8faa5d54;1008;40.3;2.6;54.4;Perhatian Khusus;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20261;18/10/2026 17:29;18/10/2026 17:29
+799;3f772b81-d87b-4db8-a44d-396e7dcd7377;1008;19;2.92;89;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;16/10/2026 17:51;16/10/2026 17:51
+800;cccd88a4-1479-4249-a625-1c4ac7dd6339;1008;12.2;3.26;94.1;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;15/10/2026 19:20;15/10/2026 19:20
+801;fa88ffee-f0b9-4bab-a905-699e5d9f3f18;73;17.33;3.23;84.6;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;02/11/2026 13:08;02/11/2026 13:08
+802;0a7fd277-5daa-46c3-a7c2-a27811527919;73;9.6;3.38;96.3;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;21/10/2026 17:29;21/10/2026 17:29
+803;980bb8b9-db36-4251-9fbd-b224db843ef3;73;8.47;3.49;95.8;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;03/11/2026 18:29;03/11/2026 18:29
+804;ac0d4d58-a406-47c7-b61f-5c99bd1e9a08;73;14.6;3.3;88.3;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;01/11/2026 14:42;01/11/2026 14:42
+805;5c023838-e31f-492d-b6a5-cbad4d7b9f38;1005;15;3.54;81.5;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20261;15/10/2026 21:25;15/10/2026 21:25
+806;934d0e30-6e3a-433f-a469-efddccd4a60b;28;16;3.42;82.5;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;11/10/2026 19:11;11/10/2026 19:11
+807;814001e3-d7b6-492b-af70-42270a86997c;1008;25.62;2.89;76.5;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;04/10/2026 07:06;04/10/2026 07:06
+808;4ea54a59-a9cc-4d4a-8a24-4c9b4f4d0c06;1008;18.35;3.34;79.8;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;01/11/2026 19:14;01/11/2026 19:14
+809;dc0a26c1-5842-43d3-ab9e-1c3797c7854e;73;5.48;3.77;94.8;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;04/11/2026 20:58;04/11/2026 20:58
+810;c860a2b9-f8fc-47bf-bc89-8399142e7d0c;40;40.93;2.57;53.9;Perhatian Khusus;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;04/11/2026 18:15;04/11/2026 18:15
+811;cb53d69a-3a04-404e-83e8-03e0bc29d9c4;40;11.17;3.87;80.9;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;03/11/2026 17:36;03/11/2026 17:36
+812;0d748e96-2f32-4516-9103-553a8e7956f1;73;19.5;3.78;66.5;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20261;23/10/2026 20:42;23/10/2026 20:42
+813;ff4a11f9-550f-4f15-a170-18f4821fa213;84;8.3;3.86;86.9;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;12/10/2026 15:46;12/10/2026 15:46
+814;f591f5af-fcfd-4e48-a539-264038058eb3;1005;7.85;3.66;92.8;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;02/11/2026 12:12;02/11/2026 12:12
+815;a8954ff3-fa8b-4ade-a383-71b72d450f7b;74;27.68;2.53;81.4;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;03/11/2026 12:38;03/11/2026 12:38
+816;e1a922ed-08b0-4927-b7ea-9ceec32d1e87;28;10.52;3.45;92.7;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;21/10/2026 15:49;21/10/2026 15:49
+817;d8732ce7-02fa-4b3b-9524-b1e66aeed3f6;1005;23.22;2.85;82.3;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20261;15/10/2026 21:09;15/10/2026 21:09
+818;93a2756f-247f-4795-a4a6-9aaf8f62cc7a;73;12;3.04;100;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;01/11/2026 08:48;01/11/2026 08:48
+819;90903303-e2e9-4106-a157-2ee17463c93d;1008;17.4;3.22;84.7;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;03/11/2026 09:32;03/11/2026 09:32
+820;e00f4a05-48bc-48a8-bbbf-4db504bb9547;1008;16.4;3.1;89.7;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;03/11/2026 21:59;03/11/2026 21:59
+821;97ad7b47-d639-4c08-9dd4-0f6032a381cd;1008;18.3;3.08;86.4;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;13/10/2026 20:25;13/10/2026 20:25
+822;0d091af2-1410-4231-92f6-9e91f75f54b6;1008;20.35;2.76;90.3;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;01/11/2026 07:49;01/11/2026 07:49
+823;dad2c357-0ed6-4534-912c-1ef62e43b38d;40;20.35;3.04;83.3;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;30/10/2026 08:23;30/10/2026 08:23
+824;649555a4-3936-4675-b163-989659d09b2c;73;18.75;3.12;84.5;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20261;17/10/2026 13:12;17/10/2026 13:12
+825;2495803b-4fef-4f0f-a6b0-492b5d51c6e8;1008;15.35;3.44;83.3;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;11/10/2026 18:08;11/10/2026 18:08
+826;dda7661e-2878-441c-86a2-dd4dc989e3f4;1008;9.75;3.68;88.5;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;04/11/2026 16:15;04/11/2026 16:15
+827;7b9aa20f-57a4-4862-8b51-75e0beae1a10;40;12.18;3.09;98.4;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;04/11/2026 12:08;04/11/2026 12:08
+828;61a14ccd-0656-4d9f-ae50-59fc8e9ce42a;40;8.23;3.59;93.8;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;04/11/2026 19:10;04/11/2026 19:10
+829;8f1c007d-5ce9-494c-9da5-d8d75594f2d0;40;19.52;3.15;82.2;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20261;12/10/2026 21:59;12/10/2026 21:59
+830;5b36366e-a075-4e7e-89ea-6cd23ae40b57;1008;8.15;3.62;93.2;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;01/11/2026 11:39;01/11/2026 11:39
+831;c1b60557-2d93-40bf-bc1b-8324ac5eca10;1005;9.27;3.87;84.7;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;01/11/2026 14:27;01/11/2026 14:27
+832;c2e4a064-a741-4f80-8469-1ac31a0461ce;1008;14.42;3.27;89.4;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;30/10/2026 20:34;30/10/2026 20:34
+833;43446985-8085-469a-8e37-15cc11a100e1;1008;14.98;3.29;87.8;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;20/10/2026 18:22;20/10/2026 18:22
+834;c92ce3b9-ca24-469e-b7c2-b535111a9dbb;1008;27.78;2.33;86.2;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;01/11/2026 15:01;01/11/2026 15:01
+835;43ff2240-d31a-4230-b21f-f2cd633519a2;1008;19.7;3.12;82.6;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;03/11/2026 18:03;03/11/2026 18:03
+836;740ede90-f493-447b-b149-b56ae3cad702;73;25.7;3;73.6;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;02/11/2026 07:06;02/11/2026 07:06
+837;01f9efd5-ca32-4b2c-a362-55157fbda351;40;6.33;3.53;99.1;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;15/10/2026 13:06;15/10/2026 13:06
+838;1b0042b1-7498-461f-b2fe-56540b7adc07;1005;10.8;3.38;93.9;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;01/11/2026 07:33;01/11/2026 07:33
+839;ea890bc6-ab25-4981-af22-b1eb960b4d27;73;19.58;3.39;76.1;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;03/11/2026 19:53;03/11/2026 19:53
+840;1d365d79-43ca-4345-81fe-919329812d0e;40;41.78;2.37;57.2;Perhatian Khusus;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;03/11/2026 08:10;03/11/2026 08:10
+841;86791634-2125-41c4-b0b5-772272c19aec;40;32.92;2.81;63.9;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;01/11/2026 20:16;01/11/2026 20:16
+842;60339861-7705-456d-b896-bf171a62ccf0;1008;30.98;2.37;78.8;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;01/11/2026 13:33;01/11/2026 13:33
+843;4ba81b12-4457-4333-a26f-5cf026cf4a60;73;14.38;3.51;83.5;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;04/11/2026 11:28;04/11/2026 11:28
+844;36438bc1-4583-4008-8738-e809166188db;73;9.83;3.61;90.1;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;02/11/2026 10:00;02/11/2026 10:00
+845;f15e2fa1-9887-4544-82c9-5029ddb0a499;40;8.63;3.53;94.5;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;01/11/2026 17:41;01/11/2026 17:41
+846;75fc5930-bf6b-4b12-aaa3-417b21b2c13d;73;4.13;3.67;100;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;04/11/2026 10:13;04/11/2026 10:13
+847;cdc63b03-8810-4127-9b27-9769099f3d89;1008;10.6;3.34;95.3;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;23/10/2026 12:47;23/10/2026 12:47
+848;d5926616-131d-4bf2-95be-3e611c9d3446;40;12.02;3.57;86.7;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;01/11/2026 11:05;01/11/2026 11:05
+849;d811b995-12e7-4cb3-97f7-0ddce300be6f;73;17.7;3.24;83.6;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;04/11/2026 13:02;04/11/2026 13:02
+850;2c1e238f-f100-4f04-b0e2-41fe7a2bd315;40;9.73;3.55;91.8;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;02/11/2026 12:16;02/11/2026 12:16
+851;912565a0-26b2-41a5-b765-112512dcd40b;73;31.9;2.76;67.2;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;01/11/2026 19:26;01/11/2026 19:26
+852;3526b551-242a-498e-b771-e3e92f8f40b4;85;31;2.66;71.5;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;04/11/2026 18:04;04/11/2026 18:04
+853;d08e3934-2656-4f93-afc3-de2f57d26674;73;6.48;3.61;96.8;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;03/11/2026 13:58;03/11/2026 13:58
+854;57fc48ba-cd16-4eac-a8ec-0e069734c943;40;14.08;3.15;93.1;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;03/11/2026 16:59;03/11/2026 16:59
+855;09341b15-5fc6-43b9-a7ad-f03d89fefcaf;73;32.75;2.02;84;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;05/10/2026 12:53;05/10/2026 12:53
+856;fefda171-3e7a-46f1-9d7e-2737b814bf9c;1005;7.05;3.56;96.9;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;02/11/2026 16:25;02/11/2026 16:25
+857;8e4d86b9-457e-4461-80a6-1072f8574eeb;73;8.55;3.58;93.4;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;16/10/2026 13:31;16/10/2026 13:31
+858;1609c7d4-77e1-408b-8093-2a9c4724a918;28;5.65;3.72;95.7;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;02/11/2026 16:30;02/11/2026 16:30
+859;99527599-cc3b-4cd7-9eb1-c753f5cd997f;74;13.98;3.17;92.8;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;03/11/2026 10:29;03/11/2026 10:29
+860;99b49973-f3b3-498b-abcf-3add022061af;1005;4;4;92;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;04/11/2026 09:36;04/11/2026 09:36
+861;6c57ff78-9c77-470b-899a-b59b77fea82d;1008;20.8;2.9;85.9;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;03/11/2026 13:34;03/11/2026 13:34
+862;0ad67258-3766-4769-94c8-6e837d5abb71;1005;14.42;3.37;86.9;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;04/11/2026 09:29;04/11/2026 09:29
+863;3660fc4a-c3cb-4c0c-8f0e-9a6d52e86fd9;73;37.52;2.43;64.2;Perhatian Khusus;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;04/11/2026 18:53;04/11/2026 18:53
+864;ef502d41-41af-4444-ad7c-5c7c89296a50;1008;14.7;3.56;81.6;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;15/10/2026 07:06;15/10/2026 07:06
+865;b4dc2bed-5d94-4b26-a700-19673a251303;1005;19.15;3.32;78.7;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;03/11/2026 13:04;03/11/2026 13:04
+866;78119716-a305-4102-9e60-744531c4a86d;73;14.98;3.15;91.3;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20261;05/10/2026 20:29;05/10/2026 20:29
+867;c6dc4805-55db-4d24-b1f8-c70378876b53;40;20.6;3.14;80.3;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;03/11/2026 17:40;03/11/2026 17:40
+868;71ce50a8-6e70-4414-896c-b5e47bbc7f4d;40;26.78;2.77;77.2;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20261;09/10/2026 19:21;09/10/2026 19:21
+869;13d727fb-785c-4050-91af-a9b0f7a6742c;1008;33.4;2.92;60.2;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20252;03/11/2026 19:37;03/11/2026 19:37
+870;9ffbea32-c6c1-4268-b50f-116e5990d184;73;28.25;2.84;72.5;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;04/10/2026 20:25;04/10/2026 20:25
+871;8c94a71a-966b-4540-a791-191039dec525;73;11.52;3.31;94.2;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;03/11/2026 18:51;03/11/2026 18:51
+872;8cf2d332-7b77-4f02-bc53-0447e483d883;1005;8.7;3.94;84.1;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;01/10/2026 18:38;01/10/2026 18:38
+873;a330a1aa-267f-4761-9bf0-1de13ccf3199;1005;7.5;3.4;100;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;02/11/2026 20:45;02/11/2026 20:45
+874;ab136d94-f526-43e5-9c7c-7c5db1c4190e;74;34.05;2.3;74.4;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;03/11/2026 21:41;03/11/2026 21:41
+875;83787043-38f4-40ef-9394-543106968fe0;1008;13.17;3.33;90.4;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;01/11/2026 17:52;01/11/2026 17:52
+876;82cb034a-c336-466b-be04-79c444f75935;1008;11.78;3.51;88.7;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;22/10/2026 14:15;22/10/2026 14:15
+877;2df49e00-9cfa-4454-b724-65039677fe29;28;41.38;2.57;53;Perhatian Khusus;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;03/11/2026 11:43;03/11/2026 11:43
+878;fb6be3cb-4dc2-47a3-b395-ca4645093563;40;14.42;3.19;91.4;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;19/10/2026 08:12;19/10/2026 08:12
+879;532d6c65-643b-4d9f-85c4-89365f1bde48;1008;8.1;3.44;97.8;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;28/10/2026 09:23;28/10/2026 09:23
+880;33452075-a8be-492f-aef0-ae08d5b68c24;1005;13.17;3.27;91.9;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;04/11/2026 21:54;04/11/2026 21:54
+881;0f7f1c36-6764-4f34-9678-c8968fc31a45;1008;9.2;3.48;94.6;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;03/11/2026 20:15;03/11/2026 20:15
+882;4e3865e2-c42b-45e2-8c22-c49abbe3fd9a;40;10.3;3.44;93.4;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;22/10/2026 17:05;22/10/2026 17:05
+883;02c749a9-f471-4368-9448-872b8fff01a9;73;13.98;3.55;83.3;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;02/11/2026 12:03;02/11/2026 12:03
+884;cfeffcf3-afd4-4b7f-ad9e-448f5e01ff8a;1008;20;3.1;82.5;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;04/11/2026 12:01;04/11/2026 12:01
+885;41846af8-8c52-430c-aa79-f462a8fbd610;28;0.77;3.95;99.7;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;28/10/2026 10:31;28/10/2026 10:31
+886;387f269f-82c3-4f92-a81d-38ec00e9f19b;40;33.35;2.42;72.8;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;21/10/2026 21:35;21/10/2026 21:35
+887;561705f0-8186-4ded-9ce8-5d1b977668eb;73;21.7;2.46;95.1;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;04/11/2026 17:57;04/11/2026 17:57
+888;582ee9d3-fb10-4033-a07b-9ab7aad1da98;40;27.5;2.66;78.5;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20261;24/10/2026 09:45;24/10/2026 09:45
+889;a2dba9a9-382b-415b-9a97-f71005c876ab;74;39.4;2.16;67.2;Perhatian Khusus;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;04/11/2026 19:28;04/11/2026 19:28
+890;2298bef0-ae3d-4cbf-a9a2-9c73716d1d93;1008;14.1;3.26;90.3;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;04/11/2026 14:21;04/11/2026 14:21
+891;b89c1701-b6f9-4c0d-9966-ba34b7bfb5d0;1008;12.62;3.41;89.5;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;02/11/2026 19:46;02/11/2026 19:46
+892;41360bb5-6b24-41db-ae17-d321875e1574;1008;21.98;3.21;75.8;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;03/11/2026 07:58;03/11/2026 07:58
+893;81b3c653-5db1-45b4-90b4-eb07b8b5cae7;73;15.3;3.22;88.9;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;03/11/2026 08:01;03/11/2026 08:01
+894;1fd5413a-4f67-41e5-8364-432605b7c167;1005;13.12;2.95;100;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;02/11/2026 18:39;02/11/2026 18:39
+895;87a7d2cf-2d74-465e-898a-fcd34fa2e409;40;19.8;3.08;83.4;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;03/11/2026 09:03;03/11/2026 09:03
+896;8293ddf0-921d-4b15-ac05-eeb1276fe11c;74;11.15;3.56;88.7;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;08/10/2026 13:00;08/10/2026 13:00
+897;86c07f86-7828-4306-9788-a3ffc2d0ff6a;73;10.6;3.18;99.3;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;27/10/2026 11:10;27/10/2026 11:10
+898;b8582003-9827-425b-b29b-2ae33d971407;1005;10.52;3.75;85.2;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;30/10/2026 07:23;30/10/2026 07:23
+899;1de9cde5-82be-4699-bf82-ce5a57af36cb;1008;18.62;3.19;83;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;04/11/2026 17:08;04/11/2026 17:08
+900;3dce0cab-e4bf-4adf-a9ad-012a49c20b85;40;17.23;3.37;81.3;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;24/10/2026 17:37;24/10/2026 17:37
+901;2a29e552-224c-459c-901b-a0250b0e885b;73;8.9;4;82.2;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;09/10/2026 14:50;09/10/2026 14:50
+902;9809a87d-1a0b-4b1f-8fe0-a9eef776103f;73;13.37;2.93;100;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;04/11/2026 17:44;04/11/2026 17:44
+903;60c7fe88-71de-4598-9746-daf60847f677;40;9.1;3.52;93.8;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;03/11/2026 07:45;03/11/2026 07:45
+904;bad24d9f-4852-4b7e-8773-4e723dcb5b20;1005;25.28;2.91;76.7;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;07/10/2026 10:00;07/10/2026 10:00
+905;464596bb-4c2b-429e-9d1d-3ba930d348d5;28;30.83;2.69;71.1;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;02/11/2026 15:51;02/11/2026 15:51
+906;a390cbfc-d9a8-4a69-bcda-e9efd95e6346;40;11.72;3.39;91.8;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;03/10/2026 14:36;03/10/2026 14:36
+907;1f487372-5de9-4d8e-bf10-05b0276a5c0b;40;14.23;3.27;89.8;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;04/10/2026 19:07;04/10/2026 19:07
+908;6375a3b2-0fda-416b-9ddf-7e182bf10977;40;7.98;3.71;91.3;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;03/11/2026 08:50;03/11/2026 08:50
+909;4c3849a3-ed22-40ea-a676-258b8e684271;1005;12.25;3.36;91.5;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;02/11/2026 18:07;02/11/2026 18:07
+910;3f7f63c7-36b2-45b7-93a7-037fecb7e37e;1008;33.62;2.57;68.5;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;03/10/2026 11:46;03/10/2026 11:46
+911;94ae7faa-602d-416e-b2f0-0a143932ad2c;40;13;3.44;88;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;03/11/2026 10:56;03/11/2026 10:56
+912;30d33db9-a35b-4a46-87ad-961c244779c1;1008;9.95;4;80.1;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;16/10/2026 13:06;16/10/2026 13:06
+913;555c4da2-ef14-4485-9ab5-cc4b1c8858b7;1005;18.1;3.02;88.3;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;02/10/2026 07:56;02/10/2026 07:56
+914;a789f166-283c-47ba-9ac5-cb59115758e0;1005;17.48;3.31;82.3;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;08/10/2026 16:57;08/10/2026 16:57
+915;67623945-9744-4d25-bb31-dfecc90c8f2a;1008;4.88;3.61;100;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;01/11/2026 19:41;01/11/2026 19:41
+916;65558ca1-f5bf-4366-a6f4-77dd0d2193ce;1008;33.42;2.09;80.9;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20261;02/10/2026 17:20;02/10/2026 17:20
+917;5eb5f867-45dc-43a7-bc38-54cefacd19bc;1008;32.67;3.37;50.4;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;02/11/2026 10:56;02/11/2026 10:56
+918;49c059be-79fc-4ab2-9abd-b6c0b178afa4;1005;11;3.48;91;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;27/10/2026 16:58;27/10/2026 16:58
+919;efea77f0-7515-41b5-8127-6401a6d18f4a;1005;10.47;3.47;92.3;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;27/10/2026 21:20;27/10/2026 21:20
+920;d67e48bc-bd06-4b30-a2cc-cd42bbf758c6;1005;10.38;3.57;90;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;01/11/2026 18:36;01/11/2026 18:36
+921;7206ec1f-52ee-4f07-8d87-8d0d88d82c4e;40;34.3;2.68;64.4;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;20/10/2026 19:32;20/10/2026 19:32
+922;13edffce-b6f4-4563-95dc-a2337459974a;1008;12.05;3.7;83.4;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;01/11/2026 18:23;01/11/2026 18:23
+923;7022db98-a09f-4670-a68c-2bd84a35a3b7;1008;14.2;3.14;93.1;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;02/11/2026 15:37;02/11/2026 15:37
+924;a39b3ef3-c283-45cb-a564-1f8b7f5b66d4;1008;36.15;2.42;67.2;Perhatian Khusus;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20261;20/10/2026 14:33;20/10/2026 14:33
+925;fd2a9066-dcfa-47b4-8625-c4edcbc8e2a4;1008;14.88;3.27;88.5;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;04/11/2026 20:28;04/11/2026 20:28
+926;474eb87d-bc50-4b1b-b0d7-5a15f7786cec;1008;31.12;2.71;70;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;06/10/2026 14:24;06/10/2026 14:24
+927;cf7e39eb-c5b9-4910-b418-900cb17c18da;73;18.08;3.15;85.1;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;14/10/2026 13:50;14/10/2026 13:50
+928;985da7f5-6313-48e7-a16e-effad335dcbd;1008;12.32;3.45;89.1;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;06/10/2026 15:10;06/10/2026 15:10
+929;2a1fff27-5050-4cfc-b849-6b8d35e86a1d;73;6.87;3.47;99.5;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;04/11/2026 10:20;04/11/2026 10:20
+930;a0a5752f-b060-4209-8910-dde7661454be;73;16.77;3.11;88.7;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;10/10/2026 17:06;10/10/2026 17:06
+931;c6aba53e-715b-4c21-b807-31c6eb65e937;1008;11.92;3.33;92.9;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;08/10/2026 13:21;08/10/2026 13:21
+932;7bee97ab-0193-4fb8-9af5-5eec94cb6147;40;15.67;3.25;87.4;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;01/11/2026 20:24;01/11/2026 20:24
+933;9055e912-48f9-4d9c-b0e6-d15301b46e41;40;20.65;3.14;80.2;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;15/10/2026 16:20;15/10/2026 16:20
+934;e0f3b0a2-a2b4-47f5-ad1c-8c3ff10d737b;74;48.75;2.4;42.5;Perhatian Khusus;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20261;08/10/2026 18:17;08/10/2026 18:17
+935;8826ad2a-1e60-462d-a473-e147dcbe40f8;28;14.38;3.33;88;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;04/10/2026 20:01;04/10/2026 20:01
+936;a249c5c7-ebd4-4c72-9c0c-07d6875f82b9;1008;30.95;2.48;76.1;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;01/11/2026 20:59;01/11/2026 20:59
+937;cd58ffa3-315d-4c6b-bcf9-0aaabc83d7ee;1008;11.55;3.56;87.9;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;20/10/2026 20:03;20/10/2026 20:03
+938;55c0399f-189a-458e-9407-90d697537489;1005;17.55;3.46;78.4;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;03/11/2026 09:30;03/11/2026 09:30
+939;0ef0d90e-775c-4384-b95d-8053667ff64b;1005;17.08;3.07;89.1;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;01/11/2026 09:53;01/11/2026 09:53
+940;f0f55d67-9415-4511-91ee-41c6dff8e935;40;3.7;4;92.6;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;01/11/2026 11:09;01/11/2026 11:09
+941;5cf14fc8-b852-4533-be51-28e9849d277f;1008;4.65;4;90.7;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;08/10/2026 07:38;08/10/2026 07:38
+942;41f5d047-f24e-4ff8-b53d-5ab27414dafc;73;13.85;3.24;91.3;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;18/10/2026 07:39;18/10/2026 07:39
+943;7d300ed4-b4ef-4e87-97c8-7851eb44fd63;1008;19.1;3.2;81.8;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20261;03/10/2026 10:21;03/10/2026 10:21
+944;7f1b1b47-bd49-41c6-b0d6-e64b66092ce0;1008;5.25;3.58;100;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;11/10/2026 14:59;11/10/2026 14:59
+945;621d2455-9280-4094-a7fa-bbfda897990a;1008;0.45;4;99.1;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;04/11/2026 20:51;04/11/2026 20:51
+946;1610d596-9992-4946-8db6-fa013877316f;1005;8.28;3.59;93.7;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;01/11/2026 19:05;01/11/2026 19:05
+947;88d4ad35-9558-42e3-8224-e5f278bfb8db;73;12.4;3.4;90.2;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;02/11/2026 18:24;02/11/2026 18:24
+948;4f181768-ebd9-4531-914b-8237f41e46e3;1008;19.75;2.88;88.5;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;20/10/2026 09:33;20/10/2026 09:33
+949;571f8501-fe07-4901-bccb-62b3eaf7e799;1008;7;3.44;100;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;18/10/2026 07:14;18/10/2026 07:14
+950;15b93b03-1872-4b91-afab-6366c75aab6c;1008;28.52;2.61;77.7;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20261;14/10/2026 11:42;14/10/2026 11:42
+951;08f62c14-21af-485b-ae9e-d5e70adda165;40;38.1;2.96;49.8;Perhatian Khusus;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20261;29/10/2026 08:35;29/10/2026 08:35
+952;bee3f986-d341-48dc-9140-368854c5f5a9;73;4;3.7;99.5;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;03/11/2026 13:08;03/11/2026 13:08
+953;c798ad1b-64ea-460f-9e21-6f271ad52c3f;1005;3.88;3.69;100;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;03/11/2026 08:03;03/11/2026 08:03
+954;efd607ab-c244-468f-b23b-9aad052318f3;74;12.35;3.5;87.8;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;12/10/2026 16:33;12/10/2026 16:33
+955;b8424839-4f05-4a55-8609-1027ad0be164;73;11.15;3.38;93.2;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;15/10/2026 14:34;15/10/2026 14:34
+956;b16aaf30-aaf5-4e71-91bf-d0ea4a19db66;40;32.53;2.51;72.2;Aman;Perlu pemantauan berkala terhadap IPS dan persentase kehadiran.;20261;27/10/2026 13:54;27/10/2026 13:54
+957;773a1635-7e6b-4eca-bc06-7d1f4c0ea448;1005;8.18;3.53;95.4;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;12/10/2026 12:05;12/10/2026 12:05
+958;c833d5ed-9979-4fe9-becb-96209b2dd32d;1008;11.82;3.45;90.1;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;01/11/2026 09:39;01/11/2026 09:39
+959;bcfddb19-de03-4e0e-9dc7-1ab7050adacd;73;24.7;3.2;70.6;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;01/11/2026 09:21;01/11/2026 09:21
+960;14732d11-8ef8-4b5c-8f73-f2ab8844f92a;1008;0;4;100;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;03/11/2026 13:11;03/11/2026 13:11
+961;2a1e4816-aca8-4d81-af11-7ef1991ac0f8;1008;14.8;3.14;91.9;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;03/11/2026 11:26;03/11/2026 11:26
+962;6c3fe4da-501b-4a93-b574-4a0d9ddb334f;73;3.88;3.69;100;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;14/10/2026 13:18;14/10/2026 13:18
+963;72a0a6df-1661-4aee-b7d4-524a24ab4a93;73;30.52;2.35;80.2;Aman;Disarankan menyusun jadwal belajar dan meningkatkan kehadiran perkuliahan.;20252;01/11/2026 14:41;01/11/2026 14:41
+964;a9b8adb8-518a-488c-92c0-441e6256c939;40;22.08;2.47;94.1;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;27/10/2026 10:54;27/10/2026 10:54
+965;ffb7e821-5ab7-489f-a998-a01b3e33e14f;1005;15.85;3.22;87.8;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;13/10/2026 11:31;13/10/2026 11:31
+966;59900248-401d-4670-a634-f75b444767a4;1005;10.33;3.55;90.6;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;04/11/2026 09:23;04/11/2026 09:23
+967;f30afe49-1df5-4548-86b4-3a3d33f5e277;1005;6.87;3.45;100;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;02/11/2026 13:58;02/11/2026 13:58
+968;37439505-6550-49b1-9ac3-223125955f1c;1005;6.85;3.56;97.3;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;03/11/2026 18:44;03/11/2026 18:44
+969;a60faaf4-ada8-4066-a8d7-79620606f0ee;40;28.17;2.95;69.9;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20261;13/10/2026 09:16;13/10/2026 09:16
+970;3eb82f76-f1dd-4936-85ae-fe320565e053;1008;10.33;3.31;96.6;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;01/11/2026 13:53;01/11/2026 13:53
+971;15b3154b-e97e-4f9f-8aa8-c47183394f09;73;21.9;3.14;77.7;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;03/10/2026 13:00;03/10/2026 13:00
+972;c8674081-e1f7-4935-9826-d6204da5b8ae;73;13.67;3.43;86.9;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;01/11/2026 19:30;01/11/2026 19:30
+973;b130cc0d-e300-4a8c-ba2f-7187f1d2aa00;40;10.02;3.39;95.2;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;19/10/2026 19:12;19/10/2026 19:12
+974;fb928ab1-04c1-441c-b7b3-88dd22a64336;1008;10.27;3.49;92.2;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;02/11/2026 08:13;02/11/2026 08:13
+975;669e2083-6ff3-4244-84b1-3cdb8b4bb3eb;74;39.15;2.88;49.7;Perhatian Khusus;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20261;09/10/2026 08:54;09/10/2026 08:54
+976;504b7b0b-aa7b-4c49-8c38-c9e28777cc71;73;31.95;3;61.1;Aman;Perlu konsultasi dengan dosen wali untuk mengidentifikasi kendala akademik.;20252;01/11/2026 16:28;01/11/2026 16:28
+977;3be035d7-1279-4d92-b278-887a28447077;40;21.35;3.08;80.3;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;03/11/2026 07:37;03/11/2026 07:37
+978;735b8445-3873-496a-a1d9-c7496ba30211;1005;7.13;3.63;95;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;10/10/2026 14:55;10/10/2026 14:55
+979;9e250176-a506-4eac-a581-eb5c3ee37e4b;85;12.33;3.55;86.6;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;04/11/2026 20:55;04/11/2026 20:55
+980;edb88f26-2b4d-4cad-a24f-2c79f4ceffe2;1008;18.17;3.23;82.9;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;01/11/2026 11:31;01/11/2026 11:31
+981;3f323c73-2aeb-4eec-a686-943c53c9c560;40;10.15;3.46;93.2;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;03/11/2026 10:51;03/11/2026 10:51
+982;d390cb5c-2437-479e-be6f-f5a5457d04e2;28;9.98;3.27;98.3;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20261;03/10/2026 08:54;03/10/2026 08:54
+983;cb74ce9d-7721-4e26-8b32-15f29aaa9b93;1005;9.28;3.63;90.7;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20261;19/10/2026 09:33;19/10/2026 09:33
+984;5e119733-f3b5-4b75-ae6b-01741125f732;73;23.58;2.87;81.1;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;01/11/2026 10:00;01/11/2026 10:00
+985;d0fb8fcb-8199-4af3-9e15-c047490a08d4;40;6.52;3.49;99.7;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20261;07/10/2026 12:29;07/10/2026 12:29
+986;e5b83e65-e5cc-48b5-b4bb-c91424c1a621;1008;11.78;3.55;87.7;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;03/11/2026 10:16;03/11/2026 10:16
+987;f2a537e5-6b0b-41fc-b31c-e8852f45dcd4;1008;37.38;2.69;58;Perhatian Khusus;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20261;16/10/2026 10:36;16/10/2026 10:36
+988;04f7db63-c7ef-44b9-8f87-d705e1312e95;85;12.95;3.66;82.6;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;02/11/2026 13:51;02/11/2026 13:51
+989;07e6eab1-ba9f-4112-a500-2e1152063dc8;1008;16.85;3.5;78.8;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20252;01/11/2026 11:34;01/11/2026 11:34
+990;8b1e6cbb-3dc6-4dd5-b05c-c55a811a3feb;28;12.28;3.57;86.2;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;25/10/2026 07:02;25/10/2026 07:02
+991;a7a9212f-e1f1-486d-9958-da2c8987cdc9;40;18.08;3.03;88.1;Aman;Terus tingkatkan pemahaman materi dan persiapkan evaluasi perkuliahan.;20252;02/11/2026 12:59;02/11/2026 12:59
+992;2a5be9a5-116c-41f0-8967-86a35372fec2;1008;7.3;3.64;94.4;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;10/10/2026 09:08;10/10/2026 09:08
+993;30213043-e2ec-4937-abae-0ca8361b0f5c;73;38.75;2.22;67;Perhatian Khusus;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20252;04/11/2026 19:59;04/11/2026 19:59
+994;ace418a6-bf02-4662-b9dc-b8fff6d15c8b;1008;11.02;3.57;88.7;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;02/11/2026 16:04;02/11/2026 16:04
+995;427860e0-8e10-4640-87c4-6485f8531818;40;14.95;3.2;90.1;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;03/11/2026 10:00;03/11/2026 10:00
+996;5818cbb8-ee2f-4aa8-98d5-54c67adb53e5;40;7.63;3.53;96.5;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;01/11/2026 18:24;01/11/2026 18:24
+997;2585ead1-c4ae-4467-ab07-77010c1407bb;73;18.02;3.35;80.2;Aman;Pertahankan capaian akademik dan konsistensi kehadiran.;20261;05/10/2026 16:14;05/10/2026 16:14
+998;18c8b63c-e5b5-489e-8168-b7b5b3c0c9f8;73;3.98;3.81;96.8;Aman;Jaga kedisiplinan presensi serta pertahankan komunikasi dengan dosen wali.;20252;03/11/2026 20:57;03/11/2026 20:57
+999;162fad0c-d61e-48c0-b99b-a92fb8dd9cc9;1005;8.3;3.42;97.9;Aman;Capaian akademik cukup baik, tetap lakukan evaluasi belajar secara berkala.;20252;01/11/2026 12:39;01/11/2026 12:39
+1000;9dea661c-d73c-4f20-b6df-29bcd5fd0135;73;32.98;3.29;51.8;Aman;Dosen wali perlu melakukan tindak lanjut untuk mengetahui hambatan studi.;20261;24/10/2026 10:46;24/10/2026 10:46
